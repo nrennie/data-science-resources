@@ -1,6 +1,6 @@
 # Data Science Resources
 
-A collection of data science blogs, newsletters, books, websites etc. that I've found useful. 
+A collection of data science blogs, newsletters, books, websites etc. that I've found useful. Mainly for personal use to avoid having 1,000+ tabs open.
 
 ## Blogs
 
