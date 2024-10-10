@@ -84,7 +84,12 @@ A collection of data science blogs, newsletters, books, websites etc. that I've 
 
 * Awesome Public Datasets: [github.com/awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)
 * Google Dataset Search: [datasetsearch.research.google.com](https://datasetsearch.research.google.com/)
+* Information is Beautiful: [informationisbeautiful.net/data](https://informationisbeautiful.net/data/)
+* NHS Digital: [digital.nhs.uk/data-and-information/statistical-publications-open-data-and-data-products](https://digital.nhs.uk/data-and-information/statistical-publications-open-data-and-data-products)
 * NHSRdatasets: [github.com/nhs-r-community/NHSRdatasets](https://github.com/nhs-r-community/NHSRdatasets)
+* Office for National Statistics: [www.ons.gov.uk](https://www.ons.gov.uk/)
+* Open Geography Portal: [geoportal.statistics.gov.uk](https://geoportal.statistics.gov.uk/)
 * Rdatasets: [vincentarelbundock.github.io/Rdatasets/articles/data.html](https://vincentarelbundock.github.io/Rdatasets/articles/data.html)
 * Teaching of Statistics in the Health Sciences: [causeweb.org/tshs](https://causeweb.org/tshs/)
 * TidyTuesday: [github.com/rfordatascience/tidytuesday](https://github.com/rfordatascience/tidytuesday)
+* UK Data Service: [ukdataservice.ac.uk](https://ukdataservice.ac.uk/)
