@@ -23,6 +23,7 @@ A collection of data science blogs, newsletters, books, websites etc. that I've 
 * Zak Varty: [www.zakvarty.com](https://www.zakvarty.com/)
 * Isabella Velásquez: [ivelasq.rbind.io](https://ivelasq.rbind.io/)
 * Appsilon: [www.appsilon.com/blog](https://www.appsilon.com/blog)
+* her data: [www.herdata.net/mainblog](https://www.herdata.net/mainblog)
 * Jumping Rivers: [www.jumpingrivers.com/blog](https://www.jumpingrivers.com/blog/)
 * Posit: [posit.co/blog](https://posit.co/blog/)
 * rOpenSci: [ropensci.org/blog](https://ropensci.org/blog/)
@@ -83,6 +84,7 @@ A collection of data science blogs, newsletters, books, websites etc. that I've 
 ## Data
 
 * Awesome Public Datasets: [github.com/awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)
+* Data.gov (The Home of the U.S. Government's Open Data): [data.gov](https://data.gov/)
 * Google Dataset Search: [datasetsearch.research.google.com](https://datasetsearch.research.google.com/)
 * Information is Beautiful: [informationisbeautiful.net/data](https://informationisbeautiful.net/data/)
 * NHS Digital: [digital.nhs.uk/data-and-information/statistical-publications-open-data-and-data-products](https://digital.nhs.uk/data-and-information/statistical-publications-open-data-and-data-products)
