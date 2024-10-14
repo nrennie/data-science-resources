@@ -95,3 +95,11 @@ A collection of data science blogs, newsletters, books, websites etc. that I've 
 * Teaching of Statistics in the Health Sciences: [causeweb.org/tshs](https://causeweb.org/tshs/)
 * TidyTuesday: [github.com/rfordatascience/tidytuesday](https://github.com/rfordatascience/tidytuesday)
 * UK Data Service: [ukdataservice.ac.uk](https://ukdataservice.ac.uk/)
+
+## Challenges
+
+* 30 Day Chart Challenge: [github.com/30DayChartChallenge](https://github.com/30DayChartChallenge)
+* 30 Day Map Challenge: [30daymapchallenge.com](https://30daymapchallenge.com/)
+* Makeover Monday: [makeovermonday.co.uk](https://makeovermonday.co.uk/)
+* Storytelling with Data: [community.storytellingwithdata.com/challenges](https://community.storytellingwithdata.com/challenges)
+* Viz for Social Good: [www.vizforsocialgood.com](https://www.vizforsocialgood.com/)
