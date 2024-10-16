@@ -50,6 +50,7 @@ A collection of data science blogs, newsletters, books, websites etc. that I've 
 * Geocomputation with R: [r.geocompx.org](https://r.geocompx.org/)
 * Happy Git with R: [happygitwithr.com](https://happygitwithr.com/)
 * Mastering Shiny: [mastering-shiny.org](https://mastering-shiny.org/)
+* Python for Data Analysis: [wesmckinney.com/book](https://wesmckinney.com/book/)
 * R Cookbook: [rc2e.com](https://rc2e.com/)
 * R for Data Science: [r4ds.hadley.nz](https://r4ds.hadley.nz/)
 * R for Health Data Science: [argoshare.is.ed.ac.uk/healthyr_book](https://argoshare.is.ed.ac.uk/healthyr_book/)
@@ -59,6 +60,7 @@ A collection of data science blogs, newsletters, books, websites etc. that I've 
 * R Packages: [r-pkgs.org](https://r-pkgs.org/)
 * Telling Stories with Data: [tellingstorieswithdata.com](https://tellingstorieswithdata.com/)
 * Tidy Modelling with R: [www.tmwr.org](https://www.tmwr.org/)
+* What They Forgot to Teach You About R: [rstats.wtf](https://rstats.wtf/)
   
 ## Websites
 
