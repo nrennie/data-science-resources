@@ -40,6 +40,7 @@ A collection of data science blogs, newsletters, books, websites etc. that I've 
 ## Books
 
 * Advanced R: [adv-r.hadley.nz](https://adv-r.hadley.nz/)
+* An Introduction to Statistical Learning: [www.statlearning.com](https://www.statlearning.com/)
 * Big Book of R: [www.bigbookofr.com](https://www.bigbookofr.com/)
 * Building reproducible analytical pipelines (RAP) with R: [raps-with-r.dev](https://raps-with-r.dev/)
 * Data Management in Large-Scale Education Research: [datamgmtinedresearch.com](https://datamgmtinedresearch.com/)
@@ -51,6 +52,7 @@ A collection of data science blogs, newsletters, books, websites etc. that I've 
 * Happy Git with R: [happygitwithr.com](https://happygitwithr.com/)
 * Mastering Shiny: [mastering-shiny.org](https://mastering-shiny.org/)
 * Python for Data Analysis: [wesmckinney.com/book](https://wesmckinney.com/book/)
+* Python for Data Science: [aeturrell.github.io/python4DS/welcome.html](https://aeturrell.github.io/python4DS/welcome.html)
 * R Cookbook: [rc2e.com](https://rc2e.com/)
 * R for Data Science: [r4ds.hadley.nz](https://r4ds.hadley.nz/)
 * R for Health Data Science: [argoshare.is.ed.ac.uk/healthyr_book](https://argoshare.is.ed.ac.uk/healthyr_book/)
@@ -59,6 +61,7 @@ A collection of data science blogs, newsletters, books, websites etc. that I've 
 * R in Production: [r-in-production.org](https://r-in-production.org/)
 * R Packages: [r-pkgs.org](https://r-pkgs.org/)
 * Telling Stories with Data: [tellingstorieswithdata.com](https://tellingstorieswithdata.com/)
+* Think Bayes: [allendowney.github.io/ThinkBayes2/index.html](https://allendowney.github.io/ThinkBayes2/index.html#)
 * Tidy Modelling with R: [www.tmwr.org](https://www.tmwr.org/)
 * What They Forgot to Teach You About R: [rstats.wtf](https://rstats.wtf/)
   
@@ -70,6 +73,7 @@ A collection of data science blogs, newsletters, books, websites etc. that I've 
 * List of R events: [jumpingrivers.github.io/meetingsR/events.html](https://jumpingrivers.github.io/meetingsR/events.html)
 * NHS RAP Community of Practice: [nhsdigital.github.io/rap-community-of-practice](https://nhsdigital.github.io/rap-community-of-practice/)
 * ONS Data Visualisation Manual: [service-manual.ons.gov.uk/data-visualisation](https://service-manual.ons.gov.uk/data-visualisation)
+* PsyTeachR: [psyteachr.github.io](https://psyteachr.github.io/)
 * R for the Rest of Us: [rfortherestofus.com](https://rfortherestofus.com/)
 * Significance Magazine: [significancemagazine.com](https://significancemagazine.com/)
 * Tidymodels website: [www.tidymodels.org](https://www.tidymodels.org/)
@@ -79,6 +83,7 @@ A collection of data science blogs, newsletters, books, websites etc. that I've 
 
 * Data Science Learning Community: [dslc.io](https://dslc.io/)
 * NHS-R Community: [nhsrcommunity.com](https://nhsrcommunity.com/)
+* rainbowR: [rainbowr.org](https://rainbowr.org/)
 * R-Ladies: [rladies.org](https://rladies.org/)
 * R/Pharma: [rinpharma.com](https://rinpharma.com/)
 * PyLadies: [pyladies.com](https://pyladies.com/)
@@ -95,6 +100,7 @@ A collection of data science blogs, newsletters, books, websites etc. that I've 
 * Open Geography Portal: [geoportal.statistics.gov.uk](https://geoportal.statistics.gov.uk/)
 * Rdatasets: [vincentarelbundock.github.io/Rdatasets/articles/data.html](https://vincentarelbundock.github.io/Rdatasets/articles/data.html)
 * Teaching of Statistics in the Health Sciences: [causeweb.org/tshs](https://causeweb.org/tshs/)
+* tidyRainbow: [github.com/r-lgbtq/tidyrainbow](https://github.com/r-lgbtq/tidyrainbow)
 * TidyTuesday: [github.com/rfordatascience/tidytuesday](https://github.com/rfordatascience/tidytuesday)
 * UK Data Service: [ukdataservice.ac.uk](https://ukdataservice.ac.uk/)
 
@@ -103,5 +109,7 @@ A collection of data science blogs, newsletters, books, websites etc. that I've 
 * 30 Day Chart Challenge: [github.com/30DayChartChallenge](https://github.com/30DayChartChallenge)
 * 30 Day Map Challenge: [30daymapchallenge.com](https://30daymapchallenge.com/)
 * Makeover Monday: [makeovermonday.co.uk](https://makeovermonday.co.uk/)
+* Sports Viz Sunday: [www.sportsvizsunday.com](https://www.sportsvizsunday.com/)
 * Storytelling with Data: [community.storytellingwithdata.com/challenges](https://community.storytellingwithdata.com/challenges)
 * Viz for Social Good: [www.vizforsocialgood.com](https://www.vizforsocialgood.com/)
+* Wonderful Wednesdays: [www.psiweb.org/sigs-special-interest-groups/visualisation/welcome-to-wonderful-wednesdays](https://www.psiweb.org/sigs-special-interest-groups/visualisation/welcome-to-wonderful-wednesdays)
