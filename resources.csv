@@ -31,12 +31,13 @@ Newsletter,RWeekly,https://rweekly.org/
 Book,Advanced R,https://adv-r.hadley.nz/
 Book,An Introduction to Statistical Learning,https://www.statlearning.com/
 Book,Big Book of R,https://www.bigbookofr.com/
-Book,Building reproducible analytical pipelines (RAP) with R,RAP) with R: [raps-with-r.dev](https://raps-with-r.dev/
+Book,Building reproducible analytical pipelines (RAP) with R,https://raps-with-r.dev/
 Book,Data Management in Large-Scale Education Research,https://datamgmtinedresearch.com/
 Book,Efficient R programming,https://csgillespie.github.io/efficientR/
 Book,Engineering Production-Grade Shiny Apps,https://engineering-shiny.org/
 Book,The Epidemiologist R Handbook,https://epirhandbook.com/
 Book,Fundamentals of Data Visualization,https://clauswilke.com/dataviz/
+Book,ggplot2: Elegant Graphics for Data Analysis,https://ggplot2-book.org/
 Book,Geocomputation with R,https://r.geocompx.org/
 Book,Happy Git with R,https://happygitwithr.com/
 Book,Mastering Shiny,https://mastering-shiny.org/
@@ -50,7 +51,7 @@ Book,R Graphics Cookbook,https://r-graphics.org/
 Book,R in Production,https://r-in-production.org/
 Book,R Packages,https://r-pkgs.org/
 Book,Telling Stories with Data,https://tellingstorieswithdata.com/
-Book,Think Bayes,https://allendowney.github.io/ThinkBayes2/index.html#
+Book,Think Bayes,https://allendowney.github.io/ThinkBayes2/index.html
 Book,Tidy Modelling with R,https://www.tmwr.org/
 Book,What They Forgot to Teach You About R,https://rstats.wtf/
 Website,Best Practices for Data Visualisation,https://rss.org.uk/datavisguide/
@@ -71,7 +72,7 @@ Community,R-Ladies,https://rladies.org/
 Community,R/Pharma,https://rinpharma.com/
 Community,PyLadies,https://pyladies.com/
 Data,Awesome Public Datasets,https://github.com/awesomedata/awesome-public-datasets
-Data,Data.gov (The Home of the U.S. Government's Open Data),The Home of the U.S. Government's Open Data): [data.gov](https://data.gov/
+Data,Data.gov (The Home of the U.S. Government's Open Data),https://data.gov/
 Data,Google Dataset Search,https://datasetsearch.research.google.com/
 Data,Information is Beautiful,https://informationisbeautiful.net/data/
 Data,NHS Digital,https://digital.nhs.uk/data-and-information/statistical-publications-open-data-and-data-products
