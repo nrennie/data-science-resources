@@ -1,0 +1,89 @@
+---
+title: "Data Science Resources"
+subtitle: "A curated collection of useful, freely-available data science resources."
+author: "Nicola Rennie"
+format:
+  html:
+    toc: true
+execute: 
+  eval: true
+  echo: false
+---
+
+```{r}
+#| message: false
+resources <- readr::read_csv("Data/resources.csv") |>
+  dplyr::mutate(
+    Link = kableExtra::cell_spec(
+      stringr::str_remove_all(Link, "https://|/$"),
+      format = "html",
+      link = Link
+    )
+  )
+```
+
+
+# Blogs
+
+```{r}
+resources |>
+  dplyr::filter(Type == "Blog") |>
+  dplyr::select(-Type) |>
+  knitr::kable("html", escape = FALSE)
+```
+
+# Books
+
+```{r}
+resources |>
+  dplyr::filter(Type == "Book") |>
+  dplyr::select(-Type) |>
+  knitr::kable("html", escape = FALSE)
+```
+
+# Newsletters
+
+```{r}
+resources |>
+  dplyr::filter(Type == "Newsletter") |>
+  dplyr::select(-Type) |>
+  knitr::kable("html", escape = FALSE)
+```
+
+# Websites
+
+```{r}
+resources |>
+  dplyr::filter(Type == "Website") |>
+  dplyr::select(-Type) |>
+  knitr::kable("html", escape = FALSE)
+```
+
+# Communities
+
+```{r}
+resources |>
+  dplyr::filter(Type == "Community") |>
+  dplyr::select(-Type) |>
+  knitr::kable("html", escape = FALSE)
+```
+
+# Data 
+
+```{r}
+resources |>
+  dplyr::filter(Type == "Data") |>
+  dplyr::select(-Type) |>
+  knitr::kable("html", escape = FALSE)
+```
+
+# Challenges
+
+```{r}
+resources |>
+  dplyr::filter(Type == "Challenge") |>
+  dplyr::select(-Type) |>
+  knitr::kable("html", escape = FALSE)
+```
+
+
