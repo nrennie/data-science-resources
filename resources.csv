@@ -17,6 +17,7 @@ Blog,Julia Silge,https://juliasilge.com/blog/
 Blog,Cara Thompson,https://www.cararthompson.com/posts
 Blog,Zak Varty,https://www.zakvarty.com/
 Blog,Isabella Velásquez,https://ivelasq.rbind.io/
+Blog,Yihui Xie,https://yihui.org/en/
 Blog,Appsilon,https://www.appsilon.com/blog
 Blog,her data,https://www.herdata.net/mainblog
 Blog,Jumping Rivers,https://www.jumpingrivers.com/blog/
@@ -25,6 +26,7 @@ Blog,rOpenSci,https://ropensci.org/blog/
 Blog,S-Cubed,https://scubed.rbind.io/
 Blog,ThinkR,https://rtask.thinkr.fr/blog/
 Blog,Tidyverse,https://www.tidyverse.org/blog/
+Newsletter,Data Elixir,https://dataelixir.com/
 Newsletter,Data Science Weekly,https://datascienceweekly.substack.com/
 Newsletter,Rami Krispin,https://www.linkedin.com/newsletters/rami-s-data-newsletter-7230119265956216833/
 Newsletter,Royal Statistical Society's Data Science and AI Section,https://rssdsaisection.substack.com/
@@ -51,6 +53,7 @@ Book,R for the Rest of Us: A Statistics-Free Introduction,https://book.rforthere
 Book,R Graphics Cookbook,https://r-graphics.org/
 Book,R in Production,https://r-in-production.org/
 Book,R Packages,https://r-pkgs.org/
+Book,R Markdown: The Definitive Guide,https://bookdown.org/yihui/rmarkdown/
 Book,The Rust Programming Language,https://doc.rust-lang.org/book/
 Book,Telling Stories with Data,https://tellingstorieswithdata.com/
 Book,Think Bayes,https://allendowney.github.io/ThinkBayes2/index.html
