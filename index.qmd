@@ -5,6 +5,7 @@ author: "Nicola Rennie"
 format:
   html:
     toc: true
+    page-layout: full
 execute: 
   eval: true
   echo: false
@@ -13,7 +14,7 @@ execute:
 ```{r}
 #| message: false
 # Read and format data
-resources <- readr::read_csv("Data/resources.csv") |>
+resources <- readr::read_csv("resources.csv") |>
   dplyr::mutate(
     Link = kableExtra::cell_spec(
       stringr::str_remove_all(Link, "https://|/$"),
@@ -27,8 +28,17 @@ resources_table <- function(Category, data = resources) {
   output <- data |>
     dplyr::filter(Type == Category) |>
     dplyr::select(-Type) |>
-    dplyr::arrange(Title) |> 
-    knitr::kable("html", escape = FALSE)
+    dplyr::arrange(Title) |>
+    knitr::kable("html", escape = FALSE, col.names = NULL) |>
+    kableExtra::column_spec(
+      column = 1,
+      width = "35%",
+      bold = TRUE, border_right = TRUE
+    ) |>
+    kableExtra::column_spec(
+      column = 2,
+      width = "65%"
+    )
   return(output)
 }
 ```
@@ -75,3 +85,7 @@ resources_table("Data")
 ```{r}
 resources_table("Challenge")
 ```
+
+<br>
+
+Want to add a resource? File an issue or edit the `resources.csv` file on [GitHub](https://github.com/nrennie/data-science-resources) and submit a PR.
