@@ -1,13 +1,92 @@
-﻿Type,Title,Link
-Blog,Yanina Bellini Saibene,https://yabellini.netlify.app/blog/
-Blog,Jonathan Carroll,https://jcarroll.com.au/
-Blog,Meghan Harris,https://thetidytrekker.com/blog
-Blog,Jack Kennedy,https://jcken95.github.io/projects.html
-Blog,Athanasia Mo Mowinckel,https://drmowinckels.io/blog/
-Blog,Danielle Navarro,https://blog.djnavarro.net/
-Blog,Dan Oehm,https://gradientdescending.com/
-Blog,Josiah Parry,https://josiahparry.com/posts/
-Blog,Shannon Pileggi,https://www.pipinghotdata.com/blog
-Blog,Albert Rapp,https://albert-rapp.de/
-Blog,Nicola Rennie,https://nrennie.rbind.io/
-Blog,Bruno Rodrigues,https://www.brodrigues.co/blog/
+Type,Title,Link
+Blog,Yanina Bellini Saibene: [yabellini.netlify.app/blog](https,https://yabellini.netlify.app/blog/
+Blog,Jonathan Carroll: [jcarroll.com.au](https,https://jcarroll.com.au/
+Blog,Meghan Harris: [thetidytrekker.com/blog](https,https://thetidytrekker.com/blog
+Blog,Jack Kennedy: [jcken95.github.io/projects.html](https,https://jcken95.github.io/projects.html
+Blog,Athanasia Mo Mowinckel: [drmowinckels.io/blog](https,https://drmowinckels.io/blog/
+Blog,Danielle Navarro: [blog.djnavarro.net](https,https://blog.djnavarro.net/
+Blog,Dan Oehm: [gradientdescending.com](https,https://gradientdescending.com/
+Blog,Josiah Parry: [josiahparry.com/posts](https,https://josiahparry.com/posts/
+Blog,Shannon Pileggi: [www.pipinghotdata.com/blog](https,https://www.pipinghotdata.com/blog
+Blog,Albert Rapp: [albert-rapp.de](https,https://albert-rapp.de/
+Blog,Nicola Rennie: [nrennie.rbind.io](https,https://nrennie.rbind.io/
+Blog,Bruno Rodrigues: [www.brodrigues.co/blog](https,https://www.brodrigues.co/blog/
+Blog,Maëlle Salmon: [masalmon.eu](https,https://masalmon.eu/
+Blog,Steven Paul Sanderson II: [www.spsanderson.com/steveondata](https,https://www.spsanderson.com/steveondata/
+Blog,Julia Silge: [juliasilge.com/blog](https,https://juliasilge.com/blog/
+Blog,Cara Thompson: [www.cararthompson.com/posts](https,https://www.cararthompson.com/posts
+Blog,Zak Varty: [www.zakvarty.com](https,https://www.zakvarty.com/
+Blog,Isabella Velásquez: [ivelasq.rbind.io](https,https://ivelasq.rbind.io/
+Blog,Appsilon: [www.appsilon.com/blog](https,https://www.appsilon.com/blog
+Blog,her data: [www.herdata.net/mainblog](https,https://www.herdata.net/mainblog
+Blog,Jumping Rivers: [www.jumpingrivers.com/blog](https,https://www.jumpingrivers.com/blog/
+Blog,Posit: [posit.co/blog](https,https://posit.co/blog/
+Blog,rOpenSci: [ropensci.org/blog](https,https://ropensci.org/blog/
+Blog,ThinkR: [rtask.thinkr.fr/blog](https,https://rtask.thinkr.fr/blog/
+Blog,Tidyverse: [www.tidyverse.org/blog](https,https://www.tidyverse.org/blog/
+Newsletter,Data Science Weekly: [datascienceweekly.substack.com](https,https://datascienceweekly.substack.com/
+Newsletter,Rami Krispin: [www.linkedin.com/newsletters/rami-s-data-newsletter-7230119265956216833](https,https://www.linkedin.com/newsletters/rami-s-data-newsletter-7230119265956216833/
+Newsletter,Royal Statistical Society's Data Science and AI Section: [rssdsaisection.substack.com](https,https://rssdsaisection.substack.com/
+Newsletter,RWeekly: [rweekly.org](https,https://rweekly.org/
+Book,Advanced R: [adv-r.hadley.nz](https,https://adv-r.hadley.nz/
+Book,An Introduction to Statistical Learning: [www.statlearning.com](https,https://www.statlearning.com/
+Book,Big Book of R: [www.bigbookofr.com](https,https://www.bigbookofr.com/
+Book,Building reproducible analytical pipelines (RAP) with R: [raps-with-r.dev](https,RAP) with R: [raps-with-r.dev](https://raps-with-r.dev/
+Book,Data Management in Large-Scale Education Research: [datamgmtinedresearch.com](https,https://datamgmtinedresearch.com/
+Book,Efficient R programming: [csgillespie.github.io/efficientR](https,https://csgillespie.github.io/efficientR/
+Book,Engineering Production-Grade Shiny Apps: [engineering-shiny.org](https,https://engineering-shiny.org/
+Book,The Epidemiologist R Handbook: [epirhandbook.com](https,https://epirhandbook.com/
+Book,Fundamentals of Data Visualization: [clauswilke.com/dataviz](https,https://clauswilke.com/dataviz/
+Book,Geocomputation with R: [r.geocompx.org](https,https://r.geocompx.org/
+Book,Happy Git with R: [happygitwithr.com](https,https://happygitwithr.com/
+Book,Mastering Shiny: [mastering-shiny.org](https,https://mastering-shiny.org/
+Book,Python for Data Analysis: [wesmckinney.com/book](https,https://wesmckinney.com/book/
+Book,Python for Data Science: [aeturrell.github.io/python4DS/welcome.html](https,https://aeturrell.github.io/python4DS/welcome.html
+Book,R Cookbook: [rc2e.com](https,https://rc2e.com/
+Book,R for Data Science: [r4ds.hadley.nz](https,https://r4ds.hadley.nz/
+Book,R for Health Data Science: [argoshare.is.ed.ac.uk/healthyr_book](https,https://argoshare.is.ed.ac.uk/healthyr_book/
+Book,R for the Rest of Us: A Statistics-Free Introduction: [book.rfortherestofus.com](https,https://book.rfortherestofus.com/
+Book,R Graphics Cookbook: [r-graphics.org](https,https://r-graphics.org/
+Book,R in Production: [r-in-production.org](https,https://r-in-production.org/
+Book,R Packages: [r-pkgs.org](https,https://r-pkgs.org/
+Book,Telling Stories with Data: [tellingstorieswithdata.com](https,https://tellingstorieswithdata.com/
+Book,Think Bayes: [allendowney.github.io/ThinkBayes2/index.html](https,https://allendowney.github.io/ThinkBayes2/index.html#
+Book,Tidy Modelling with R: [www.tmwr.org](https,https://www.tmwr.org/
+Book,What They Forgot to Teach You About R: [rstats.wtf](https,https://rstats.wtf/
+Website,Best Practices for Data Visualisation: [rss.org.uk/datavisguide](https,https://rss.org.uk/datavisguide/
+Website,Diffify: [diffify.com](https,https://diffify.com/
+Website,HDR Global: [globalhealthdatascience.tghn.org/hub-resources/spotlight-r](https,https://globalhealthdatascience.tghn.org/hub-resources/spotlight-r/
+Website,List of R events: [jumpingrivers.github.io/meetingsR/events.html](https,https://jumpingrivers.github.io/meetingsR/events.html
+Website,NHS RAP Community of Practice: [nhsdigital.github.io/rap-community-of-practice](https,https://nhsdigital.github.io/rap-community-of-practice/
+Website,ONS Data Visualisation Manual: [service-manual.ons.gov.uk/data-visualisation](https,https://service-manual.ons.gov.uk/data-visualisation
+Website,PsyTeachR: [psyteachr.github.io](https,https://psyteachr.github.io/
+Website,R for the Rest of Us: [rfortherestofus.com](https,https://rfortherestofus.com/
+Website,Significance Magazine: [significancemagazine.com](https,https://significancemagazine.com/
+Website,Tidymodels website: [www.tidymodels.org](https,https://www.tidymodels.org/
+Website,The Turing Way : [www.turing.ac.uk/research/research-projects/turing-way](https,https://www.turing.ac.uk/research/research-projects/turing-way
+Community,Data Science Learning Community: [dslc.io](https,https://dslc.io/
+Community,NHS-R Community: [nhsrcommunity.com](https,https://nhsrcommunity.com/
+Community,rainbowR: [rainbowr.org](https,https://rainbowr.org/
+Community,R-Ladies: [rladies.org](https,https://rladies.org/
+Community,R/Pharma: [rinpharma.com](https,https://rinpharma.com/
+Community,PyLadies: [pyladies.com](https,https://pyladies.com/
+Data,Awesome Public Datasets: [github.com/awesomedata/awesome-public-datasets](https,https://github.com/awesomedata/awesome-public-datasets
+Data,Data.gov (The Home of the U.S. Government's Open Data): [data.gov](https,The Home of the U.S. Government's Open Data): [data.gov](https://data.gov/
+Data,Google Dataset Search: [datasetsearch.research.google.com](https,https://datasetsearch.research.google.com/
+Data,Information is Beautiful: [informationisbeautiful.net/data](https,https://informationisbeautiful.net/data/
+Data,NHS Digital: [digital.nhs.uk/data-and-information/statistical-publications-open-data-and-data-products](https,https://digital.nhs.uk/data-and-information/statistical-publications-open-data-and-data-products
+Data,NHSRdatasets: [github.com/nhs-r-community/NHSRdatasets](https,https://github.com/nhs-r-community/NHSRdatasets
+Data,Office for National Statistics: [www.ons.gov.uk](https,https://www.ons.gov.uk/
+Data,Open Geography Portal: [geoportal.statistics.gov.uk](https,https://geoportal.statistics.gov.uk/
+Data,Rdatasets: [vincentarelbundock.github.io/Rdatasets/articles/data.html](https,https://vincentarelbundock.github.io/Rdatasets/articles/data.html
+Data,Teaching of Statistics in the Health Sciences: [causeweb.org/tshs](https,https://causeweb.org/tshs/
+Data,tidyRainbow: [github.com/r-lgbtq/tidyrainbow](https,https://github.com/r-lgbtq/tidyrainbow
+Data,TidyTuesday: [github.com/rfordatascience/tidytuesday](https,https://github.com/rfordatascience/tidytuesday
+Data,UK Data Service: [ukdataservice.ac.uk](https,https://ukdataservice.ac.uk/
+Challenge,30 Day Chart Challenge: [github.com/30DayChartChallenge](https,https://github.com/30DayChartChallenge
+Challenge,30 Day Map Challenge: [30daymapchallenge.com](https,https://30daymapchallenge.com/
+Challenge,Makeover Monday: [makeovermonday.co.uk](https,https://makeovermonday.co.uk/
+Challenge,Sports Viz Sunday: [www.sportsvizsunday.com](https,https://www.sportsvizsunday.com/
+Challenge,Storytelling with Data: [community.storytellingwithdata.com/challenges](https,https://community.storytellingwithdata.com/challenges
+Challenge,Viz for Social Good: [www.vizforsocialgood.com](https,https://www.vizforsocialgood.com/
+Challenge,Wonderful Wednesdays: [www.psiweb.org/sigs-special-interest-groups/visualisation/welcome-to-wonderful-wednesdays](https,https://www.psiweb.org/sigs-special-interest-groups/visualisation/welcome-to-wonderful-wednesdays
