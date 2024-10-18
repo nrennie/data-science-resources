@@ -12,6 +12,7 @@ execute:
 
 ```{r}
 #| message: false
+# Read and format data
 resources <- readr::read_csv("Data/resources.csv") |>
   dplyr::mutate(
     Link = kableExtra::cell_spec(
@@ -20,70 +21,57 @@ resources <- readr::read_csv("Data/resources.csv") |>
       link = Link
     )
   )
+
+# Function to make table
+resources_table <- function(Category, data = resources) {
+  output <- data |>
+    dplyr::filter(Type == Category) |>
+    dplyr::select(-Type) |>
+    dplyr::arrange(Title) |> 
+    knitr::kable("html", escape = FALSE)
+  return(output)
+}
 ```
 
 
 # Blogs
 
 ```{r}
-resources |>
-  dplyr::filter(Type == "Blog") |>
-  dplyr::select(-Type) |>
-  knitr::kable("html", escape = FALSE)
+resources_table("Blog")
 ```
 
 # Books
 
 ```{r}
-resources |>
-  dplyr::filter(Type == "Book") |>
-  dplyr::select(-Type) |>
-  knitr::kable("html", escape = FALSE)
+resources_table("Book")
 ```
 
 # Newsletters
 
 ```{r}
-resources |>
-  dplyr::filter(Type == "Newsletter") |>
-  dplyr::select(-Type) |>
-  knitr::kable("html", escape = FALSE)
+resources_table("Newsletter")
 ```
 
 # Websites
 
 ```{r}
-resources |>
-  dplyr::filter(Type == "Website") |>
-  dplyr::select(-Type) |>
-  knitr::kable("html", escape = FALSE)
+resources_table("Website")
 ```
 
 # Communities
 
 ```{r}
-resources |>
-  dplyr::filter(Type == "Community") |>
-  dplyr::select(-Type) |>
-  knitr::kable("html", escape = FALSE)
+resources_table("Community")
 ```
 
 # Data 
 
 ```{r}
-resources |>
-  dplyr::filter(Type == "Data") |>
-  dplyr::select(-Type) |>
-  knitr::kable("html", escape = FALSE)
+resources_table("Data")
 ```
 
 # Challenges
 
 ```{r}
-resources |>
-  dplyr::filter(Type == "Challenge") |>
-  dplyr::select(-Type) |>
-  knitr::kable("html", escape = FALSE)
+resources_table("Challenge")
 ```
-
-
