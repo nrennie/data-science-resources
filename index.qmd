@@ -56,16 +56,10 @@ resources_table("Blog")
 resources_table("Book")
 ```
 
-# Newsletters
+# Challenges
 
 ```{r}
-resources_table("Newsletter")
-```
-
-# Websites
-
-```{r}
-resources_table("Website")
+resources_table("Challenge")
 ```
 
 # Communities
@@ -80,10 +74,16 @@ resources_table("Community")
 resources_table("Data")
 ```
 
-# Challenges
+# Newsletters
 
 ```{r}
-resources_table("Challenge")
+resources_table("Newsletter")
+```
+
+# Websites
+
+```{r}
+resources_table("Website")
 ```
 
 <br>
