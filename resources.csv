@@ -18,6 +18,9 @@ Blog,Cara Thompson,https://www.cararthompson.com/posts
 Blog,Zak Varty,https://www.zakvarty.com/
 Blog,Isabella Velásquez,https://ivelasq.rbind.io/
 Blog,Yihui Xie,https://yihui.org/en/
+Blog,Matthew B. Jané,https://matthewbjane.github.io/blog.html
+Blog,Crystal Lewis,https://cghlewis.com/
+Blog,Emily Riederer,https://www.emilyriederer.com/
 Blog,Appsilon,https://www.appsilon.com/blog
 Blog,her data,https://www.herdata.net/mainblog
 Blog,Jumping Rivers,https://www.jumpingrivers.com/blog/
@@ -30,6 +33,8 @@ Newsletter,Data Elixir,https://dataelixir.com/
 Newsletter,Data Science Weekly,https://datascienceweekly.substack.com/
 Newsletter,Rami Krispin,https://www.linkedin.com/newsletters/rami-s-data-newsletter-7230119265956216833/
 Newsletter,Royal Statistical Society's Data Science and AI Section,https://rssdsaisection.substack.com/
+Newsletter,Visualizing Data,https://visualisingdata.ck.page/b9efcf751f
+Newsletter,Data Is Plural,https://www.data-is-plural.com/
 Newsletter,RWeekly,https://rweekly.org/
 Book,Advanced R,https://adv-r.hadley.nz/
 Book,An Introduction to Statistical Learning,https://www.statlearning.com/
@@ -39,6 +44,7 @@ Book,Data Management in Large-Scale Education Research,https://datamgmtinedresea
 Book,Efficient R programming,https://csgillespie.github.io/efficientR/
 Book,Engineering Production-Grade Shiny Apps,https://engineering-shiny.org/
 Book,The Epidemiologist R Handbook,https://epirhandbook.com/
+Book,Forecasting: Principles and Practice,https://otexts.com/fpp3/
 Book,Fundamentals of Data Visualization,https://clauswilke.com/dataviz/
 Book,ggplot2: Elegant Graphics for Data Analysis,https://ggplot2-book.org/
 Book,Geocomputation with R,https://r.geocompx.org/
@@ -69,7 +75,9 @@ Website,PsyTeachR,https://psyteachr.github.io/
 Website,R for the Rest of Us,https://rfortherestofus.com/
 Website,Significance Magazine,https://significancemagazine.com/
 Website,Tidymodels website,https://www.tidymodels.org/
-Website,The Turing Way ,https://www.turing.ac.uk/research/research-projects/turing-way
+Website,The Turing Way,https://www.turing.ac.uk/research/research-projects/turing-way
+Website,Awesome Quarto,https://github.com/mcanouil/awesome-quarto
+Website,Quarto,https://quarto.org/
 Community,Data Science Learning Community,https://dslc.io/
 Community,Data Visualization Society,https://www.datavisualizationsociety.org/
 Community,NHS-R Community,https://nhsrcommunity.com/
