@@ -43,6 +43,7 @@ Book,An Introduction to Statistical Learning,https://www.statlearning.com/
 Book,Big Book of R,https://www.bigbookofr.com/
 Book,Building reproducible analytical pipelines (RAP) with R,https://raps-with-r.dev/
 Book,Data Management in Large-Scale Education Research,https://datamgmtinedresearch.com/
+Book,Data Visualization with Plotnine,https://f0nzie.github.io/rmarkdown-python-plotnine/
 Book,Efficient R programming,https://csgillespie.github.io/efficientR/
 Book,Engineering Production-Grade Shiny Apps,https://engineering-shiny.org/
 Book,The Epidemiologist R Handbook,https://epirhandbook.com/
@@ -54,6 +55,7 @@ Book,Happy Git with R,https://happygitwithr.com/
 Book,Mastering Shiny,https://mastering-shiny.org/
 Book,Python for Data Analysis,https://wesmckinney.com/book/
 Book,Python for Data Science,https://aeturrell.github.io/python4DS/welcome.html
+Book,Python Polars: The Definitive Guide,https://polarsguide.com/
 Book,R Cookbook,https://rc2e.com/
 Book,R for Data Science,https://r4ds.hadley.nz/
 Book,R for Health Data Science,https://argoshare.is.ed.ac.uk/healthyr_book/
@@ -63,6 +65,7 @@ Book,R in Production,https://r-in-production.org/
 Book,R Packages,https://r-pkgs.org/
 Book,R Markdown: The Definitive Guide,https://bookdown.org/yihui/rmarkdown/
 Book,The Rust Programming Language,https://doc.rust-lang.org/book/
+Book,Scaling Up With R and Arrow,https://arrowrbook.com/
 Book,Telling Stories with Data,https://tellingstorieswithdata.com/
 Book,Think Bayes,https://allendowney.github.io/ThinkBayes2/index.html
 Book,Tidy Modelling with R,https://www.tmwr.org/
