@@ -26,7 +26,7 @@ jobs:
           
       - name: Install dependencies
         run: |
-          install.packages(c("dplyr", "stringr", "readr", "rmarkdown", "knitr", "kableExtra"))
+          install.packages(c("dplyr", "stringr", "readr", "rmarkdown", "knitr", "reactable"))
         shell: Rscript {0}
 
       - name: Render and Publish
