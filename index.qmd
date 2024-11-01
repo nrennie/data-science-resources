@@ -6,10 +6,30 @@ format:
   html:
     toc: true
     page-layout: full
+    theme: pulse
 execute: 
   eval: true
   echo: false
 ---
+
+```{css, echo = FALSE}
+select {
+  background-color: #fff;
+  border: 1px solid rgba(0,0,0,.1);
+  border-radius: 3px;
+  color: inherit;
+  font-family: inherit;
+  font-size: inherit;
+  font-weight: 400;
+  margin: 0;
+  outline-style: solid;
+  outline-width: 0;
+  padding: 5px 7px;
+  width: 100%;
+}
+```
+
+
 
 ```{r}
 #| message: false
