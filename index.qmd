@@ -13,85 +13,57 @@ execute:
 
 ```{r}
 #| message: false
-# Read and format data
 resources <- readr::read_csv("resources.csv") |>
   dplyr::mutate(
     LinkText = stringr::str_remove_all(Link, "https://|/$"),
     Link = glue::glue("<a href='{Link}' target = '_blank'>{LinkText}</a>")
   ) |>
-  dplyr::select(-LinkText) |> 
+  dplyr::select(-LinkText) |>
   dplyr::mutate(
-    Category = stringr::str_replace(Category, ";", ", ")
+    Category = stringr::str_replace_all(Category, ";", ", ")
   )
+```
 
-# Function to make table
-resources_table <- function(choose_type, data = resources) {
-  output <- data |>
-    dplyr::filter(Type %in% choose_type) |>
-    dplyr::select(-Type) |>
-    dplyr::arrange(Title) |>
-    reactable::reactable(
-      columns = list(
-        Link = reactable::colDef(
-          html = TRUE
-        )
-      ),
-      searchable = TRUE,
-      striped = TRUE,
-      pagination = FALSE,
-      height = 500
+```{r}
+#| message: false
+library(htmltools)
+filter_fct <- function(values, name) {
+  tags$select(
+    tags$option(value = "", "All"),
+    purrr::map(unique(values), tags$option),
+    onchange = glue::glue(
+      "Reactable.setFilter(
+        'resources-tbl',
+        '{name}',
+        event.target.value
+      )"
     )
-  return(output)
+  )
 }
 ```
 
 
-# Blogs
-
 ```{r}
-resources_table("Blog")
-```
-
-# Books
-
-```{r}
-resources_table("Book")
-```
-
-# Challenges
-
-```{r}
-resources_table("Challenge")
-```
-
-# Communities
-
-```{r}
-resources_table("Community")
-```
-
-# Data 
-
-```{r}
-resources_table("Data")
-```
-
-# Newsletters
-
-```{r}
-resources_table("Newsletter")
-```
-
-# Podcasts and Videos
-
-```{r}
-resources_table(c("Video", "Podcast"))
-```
-
-# Websites
-
-```{r}
-resources_table("Website")
+resources |>
+  dplyr::arrange(Type, Title) |>
+  reactable::reactable(
+    columns = list(
+      Type = reactable::colDef(
+        name = "Type",
+        filterInput = filter_fct
+      ),
+      Link = reactable::colDef(
+        html = TRUE
+      )
+    ),
+    searchable = TRUE,
+    striped = TRUE,
+    pagination = FALSE,
+    elementId = "resources-tbl",
+    filterable = TRUE,
+    sortable = TRUE,
+    showSortable = TRUE
+  )
 ```
 
 <br>
