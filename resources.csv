@@ -1,125 +1,125 @@
-Type,Title,Link
-Blog,Yanina Bellini Saibene,https://yabellini.netlify.app/blog/
-Blog,Jonathan Carroll,https://jcarroll.com.au/
-Blog,Meghan Harris,https://thetidytrekker.com/blog
-Blog,Jack Kennedy,https://jcken95.github.io/projects.html
-Blog,Athanasia Mo Mowinckel,https://drmowinckels.io/blog/
-Blog,Danielle Navarro,https://blog.djnavarro.net/
-Blog,Dan Oehm,https://gradientdescending.com/
-Blog,Josiah Parry,https://josiahparry.com/posts/
-Blog,Shannon Pileggi,https://www.pipinghotdata.com/blog
-Blog,Albert Rapp,https://albert-rapp.de/
-Blog,Nicola Rennie,https://nrennie.rbind.io/
-Blog,Bruno Rodrigues,https://www.brodrigues.co/blog/
-Blog,Maëlle Salmon,https://masalmon.eu/
-Blog,Steven Paul Sanderson II,https://www.spsanderson.com/steveondata/
-Blog,Julia Silge,https://juliasilge.com/blog/
-Blog,Cara Thompson,https://www.cararthompson.com/posts
-Blog,Zak Varty,https://www.zakvarty.com/
-Blog,Isabella Velásquez,https://ivelasq.rbind.io/
-Blog,Yihui Xie,https://yihui.org/en/
-Blog,Matthew B. Jané,https://matthewbjane.github.io/blog.html
-Blog,Crystal Lewis,https://cghlewis.com/
-Blog,Emily Riederer,https://www.emilyriederer.com/
-Blog,Rebecca Barter,https://rebeccabarter.com/
-Blog,Stephen Turner,https://blog.stephenturner.us/
-Blog,Appsilon,https://www.appsilon.com/blog
-Blog,her data,https://www.herdata.net/mainblog
-Blog,Jumping Rivers,https://www.jumpingrivers.com/blog/
-Blog,Posit,https://posit.co/blog/
-Blog,rOpenSci,https://ropensci.org/blog/
-Blog,S-Cubed,https://scubed.rbind.io/
-Blog,ThinkR,https://rtask.thinkr.fr/blog/
-Blog,Tidyverse,https://www.tidyverse.org/blog/
-Newsletter,Counting Stuff,https://www.counting-stuff.com/
-Newsletter,Data Elixir,https://dataelixir.com/
-Newsletter,Data Science Weekly,https://datascienceweekly.substack.com/
-Newsletter,Rami Krispin,https://www.linkedin.com/newsletters/rami-s-data-newsletter-7230119265956216833/
-Newsletter,Royal Statistical Society's Data Science and AI Section,https://rssdsaisection.substack.com/
-Newsletter,Visualizing Data,https://visualisingdata.ck.page/b9efcf751f
-Newsletter,Data Is Plural,https://www.data-is-plural.com/
-Newsletter,RWeekly,https://rweekly.org/
-Book,Advanced R,https://adv-r.hadley.nz/
-Book,An Introduction to Statistical Learning,https://www.statlearning.com/
-Book,Big Book of R,https://www.bigbookofr.com/
-Book,Building reproducible analytical pipelines (RAP) with R,https://raps-with-r.dev/
-Book,Data Management in Large-Scale Education Research,https://datamgmtinedresearch.com/
-Book,Data Visualization with Plotnine,https://f0nzie.github.io/rmarkdown-python-plotnine/
-Book,Efficient Machine Learning with R,https://emlwr.org/
-Book,Efficient R programming,https://csgillespie.github.io/efficientR/
-Book,Engineering Production-Grade Shiny Apps,https://engineering-shiny.org/
-Book,The Epidemiologist R Handbook,https://epirhandbook.com/
-Book,Exploring Complex Survey Data Analysis Using R,https://tidy-survey-r.github.io/tidy-survey-book/
-Book,Forecasting: Principles and Practice,https://otexts.com/fpp3/
-Book,Fundamentals of Data Visualization,https://clauswilke.com/dataviz/
-Book,ggiraph Book,https://www.ardata.fr/ggiraph-book/
-Book,ggplot2: Elegant Graphics for Data Analysis,https://ggplot2-book.org/
-Book,Geocomputation with R,https://r.geocompx.org/
-Book,Happy Git with R,https://happygitwithr.com/
-Book,Mastering Shiny,https://mastering-shiny.org/
-Book,Python for Data Analysis,https://wesmckinney.com/book/
-Book,Python for Data Science,https://aeturrell.github.io/python4DS/welcome.html
-Book,Python Polars: The Definitive Guide,https://polarsguide.com/
-Book,R Cookbook,https://rc2e.com/
-Book,R for Data Science,https://r4ds.hadley.nz/
-Book,R for Health Data Science,https://argoshare.is.ed.ac.uk/healthyr_book/
-Book,R for the Rest of Us: A Statistics-Free Introduction,https://book.rfortherestofus.com/
-Book,R Graphics Cookbook,https://r-graphics.org/
-Book,R in Production,https://r-in-production.org/
-Book,R Packages,https://r-pkgs.org/
-Book,R Markdown: The Definitive Guide,https://bookdown.org/yihui/rmarkdown/
-Book,The Rust Programming Language,https://doc.rust-lang.org/book/
-Book,Scaling Up With R and Arrow,https://arrowrbook.com/
-Book,Telling Stories with Data,https://tellingstorieswithdata.com/
-Book,Think Bayes,https://allendowney.github.io/ThinkBayes2/index.html
-Book,Tidy Modelling with R,https://www.tmwr.org/
-Book,What They Forgot to Teach You About R,https://rstats.wtf/
-Website,Best Practices for Data Visualisation,https://rss.org.uk/datavisguide/
-Website,Diffify,https://diffify.com/
-Website,HDR Global,https://globalhealthdatascience.tghn.org/hub-resources/spotlight-r/
-Website,List of R events,https://jumpingrivers.github.io/meetingsR/events.html
-Website,NHS RAP Community of Practice,https://nhsdigital.github.io/rap-community-of-practice/
-Website,ONS Data Visualisation Manual,https://service-manual.ons.gov.uk/data-visualisation
-Website,PsyTeachR,https://psyteachr.github.io/
-Website,R for the Rest of Us,https://rfortherestofus.com/
-Website,Significance Magazine,https://significancemagazine.com/
-Website,Tidymodels website,https://www.tidymodels.org/
-Website,The Turing Way,https://www.turing.ac.uk/research/research-projects/turing-way
-Website,Awesome Quarto,https://github.com/mcanouil/awesome-quarto
-Website,Quarto,https://quarto.org/
-Community,Data Science Learning Community,https://dslc.io/
-Community,Data Visualization Society,https://www.datavisualizationsociety.org/
-Community,NHS-R Community,https://nhsrcommunity.com/
-Community,rainbowR,https://rainbowr.org/
-Community,R-Ladies,https://rladies.org/
-Community,R/Pharma,https://rinpharma.com/
-Community,RoSE (Researchers of Statistics Education) Network,https://www.rose-network.org/
-Community,Rust Discord,https://discord.com/invite/rust
-Community,Tableau Community,https://community.tableau.com/s/
-Community,PyLadies,https://pyladies.com/
-Community,Women in Dataviz,https://womenindataviz.substack.com/about
-Data,Awesome Public Datasets,https://github.com/awesomedata/awesome-public-datasets
-Data,Data.gov (The Home of the U.S. Government's Open Data),https://data.gov/
-Data,Google Dataset Search,https://datasetsearch.research.google.com/
-Data,Information is Beautiful,https://informationisbeautiful.net/data/
-Data,NHS Digital,https://digital.nhs.uk/data-and-information/statistical-publications-open-data-and-data-products
-Data,NHSRdatasets,https://github.com/nhs-r-community/NHSRdatasets
-Data,Office for National Statistics,https://www.ons.gov.uk/
-Data,Open Geography Portal,https://geoportal.statistics.gov.uk/
-Data,Rdatasets,https://vincentarelbundock.github.io/Rdatasets/articles/data.html
-Data,Teaching of Statistics in the Health Sciences,https://causeweb.org/tshs/
-Data,tidyRainbow,https://github.com/r-lgbtq/tidyrainbow
-Data,TidyTuesday,https://github.com/rfordatascience/tidytuesday
-Data,UK Data Service,https://ukdataservice.ac.uk/
-Challenge,30 Day Chart Challenge,https://github.com/30DayChartChallenge
-Challenge,30 Day Map Challenge,https://30daymapchallenge.com/
-Challenge,Makeover Monday,https://makeovermonday.co.uk/
-Challenge,Sports Viz Sunday,https://www.sportsvizsunday.com/
-Challenge,Storytelling with Data,https://community.storytellingwithdata.com/challenges
-Challenge,Viz for Social Good,https://www.vizforsocialgood.com/
-Challenge,Wonderful Wednesdays,https://www.psiweb.org/sigs-special-interest-groups/visualisation/welcome-to-wonderful-wednesdays
-Video,Statistics Globe,https://www.youtube.com/@StatisticsGlobe
-Video,Albert Rapp,https://www.youtube.com/@rappa753
-Video,Julia Silge,https://www.youtube.com/c/JuliaSilge
-Podcast,R for the Rest of Us Podcast,https://rfortherestofus.com/podcast
-Podcast,RWeekly Podcast,https://serve.podhome.fm/r-weekly-highlights
+Type,Title,Link,Category
+Blog,Yanina Bellini Saibene,https://yabellini.netlify.app/blog/,R;Community
+Blog,Jonathan Carroll,https://jcarroll.com.au/,R
+Blog,Meghan Harris,https://thetidytrekker.com/blog,R
+Blog,Jack Kennedy,https://jcken95.github.io/projects.html,R;Statistics;Programming
+Blog,Athanasia Mo Mowinckel,https://drmowinckels.io/blog/,R;Community
+Blog,Danielle Navarro,https://blog.djnavarro.net/,R;Programming
+Blog,Dan Oehm,https://gradientdescending.com/,R
+Blog,Josiah Parry,https://josiahparry.com/posts/,R;Rust
+Blog,Shannon Pileggi,https://www.pipinghotdata.com/blog,R
+Blog,Albert Rapp,https://albert-rapp.de/,R
+Blog,Nicola Rennie,https://nrennie.rbind.io/,R;Data Science
+Blog,Bruno Rodrigues,https://www.brodrigues.co/blog/,R
+Blog,Maëlle Salmon,https://masalmon.eu/,R
+Blog,Steven Paul Sanderson II,https://www.spsanderson.com/steveondata/,R
+Blog,Julia Silge,https://juliasilge.com/blog/,R;Machine Learning
+Blog,Cara Thompson,https://www.cararthompson.com/posts,R;Data Visualisation
+Blog,Zak Varty,https://www.zakvarty.com/,R;Data Science
+Blog,Isabella Velásquez,https://ivelasq.rbind.io/,R;Python
+Blog,Yihui Xie,https://yihui.org/en/,R;
+Blog,Matthew B. Jané,https://matthewbjane.github.io/blog.html,Statistics;R
+Blog,Crystal Lewis,https://cghlewis.com/,Data Science;R
+Blog,Emily Riederer,https://www.emilyriederer.com/,Data Science
+Blog,Rebecca Barter,https://rebeccabarter.com/,Python;R;Data Science
+Blog,Stephen Turner,https://blog.stephenturner.us/,R;Python
+Blog,Appsilon,https://www.appsilon.com/blog,R;Python;Data Science
+Blog,her data,https://www.herdata.net/mainblog,Data Science
+Blog,Jumping Rivers,https://www.jumpingrivers.com/blog/,R;Python;Data Science
+Blog,Posit,https://posit.co/blog/,R;Python;Data Science
+Blog,rOpenSci,https://ropensci.org/blog/,R
+Blog,S-Cubed,https://scubed.rbind.io/,R
+Blog,ThinkR,https://rtask.thinkr.fr/blog/,R
+Blog,Tidyverse,https://www.tidyverse.org/blog/,R
+Newsletter,Counting Stuff,https://www.counting-stuff.com/,Data Science
+Newsletter,Data Elixir,https://dataelixir.com/,Data Science
+Newsletter,Data Science Weekly,https://datascienceweekly.substack.com/,Data Science
+Newsletter,Rami Krispin,https://www.linkedin.com/newsletters/rami-s-data-newsletter-7230119265956216833/,Data Science;R;Python
+Newsletter,Royal Statistical Society's Data Science and AI Section,https://rssdsaisection.substack.com/,Statistics;Data Science
+Newsletter,Visualizing Data,https://visualisingdata.ck.page/b9efcf751f,Data Visualisation
+Newsletter,RWeekly,https://rweekly.org/,R
+Book,Advanced R,https://adv-r.hadley.nz/,R
+Book,An Introduction to Statistical Learning,https://www.statlearning.com/,Statistics;Machine Learning;R;Python
+Book,Big Book of R,https://www.bigbookofr.com/,R
+Book,Building reproducible analytical pipelines (RAP) with R,https://raps-with-r.dev/,R
+Book,Data Management in Large-Scale Education Research,https://datamgmtinedresearch.com/,Data Science
+Book,Data Visualization with Plotnine,https://f0nzie.github.io/rmarkdown-python-plotnine/,Data Visualisation;Python
+Book,Efficient Machine Learning with R,https://emlwr.org/,R;Machine Learning
+Book,Efficient R programming,https://csgillespie.github.io/efficientR/,R
+Book,Engineering Production-Grade Shiny Apps,https://engineering-shiny.org/,R;Shiny
+Book,The Epidemiologist R Handbook,https://epirhandbook.com/,R
+Book,Exploring Complex Survey Data Analysis Using R,https://tidy-survey-r.github.io/tidy-survey-book/,R
+Book,Forecasting: Principles and Practice,https://otexts.com/fpp3/,R;Forecasting
+Book,Fundamentals of Data Visualization,https://clauswilke.com/dataviz/,Data Visualisation
+Book,ggiraph Book,https://www.ardata.fr/ggiraph-book/,Data Visualisation;R
+Book,ggplot2: Elegant Graphics for Data Analysis,https://ggplot2-book.org/,Data Visualisation;R
+Book,Geocomputation with R,https://r.geocompx.org/,R
+Book,Happy Git with R,https://happygitwithr.com/,R;Git
+Book,Mastering Shiny,https://mastering-shiny.org/,R;Shiny
+Book,Python for Data Analysis,https://wesmckinney.com/book/,Python
+Book,Python for Data Science,https://aeturrell.github.io/python4DS/welcome.html,Python
+Book,Python Polars: The Definitive Guide,https://polarsguide.com/,Python
+Book,R Cookbook,https://rc2e.com/,R
+Book,R for Data Science,https://r4ds.hadley.nz/,R
+Book,R for Health Data Science,https://argoshare.is.ed.ac.uk/healthyr_book/,R
+Book,R for the Rest of Us: A Statistics-Free Introduction,https://book.rfortherestofus.com/,R
+Book,R Graphics Cookbook,https://r-graphics.org/,R;Data Visualisation
+Book,R in Production,https://r-in-production.org/,R
+Book,R Packages,https://r-pkgs.org/,R
+Book,R Markdown: The Definitive Guide,https://bookdown.org/yihui/rmarkdown/,R
+Book,The Rust Programming Language,https://doc.rust-lang.org/book/,Rust
+Book,Scaling Up With R and Arrow,https://arrowrbook.com/,R
+Book,Telling Stories with Data,https://tellingstorieswithdata.com/,Data Visualisation
+Book,Think Bayes,https://allendowney.github.io/ThinkBayes2/index.html,Statistics
+Book,Tidy Modelling with R,https://www.tmwr.org/,Machine Learning;R
+Book,What They Forgot to Teach You About R,https://rstats.wtf/,R
+Website,Best Practices for Data Visualisation,https://rss.org.uk/datavisguide/,Data Visualisation
+Website,Diffify,https://diffify.com/,R;Python
+Website,HDR Global,https://globalhealthdatascience.tghn.org/hub-resources/spotlight-r/,R
+Website,List of R events,https://jumpingrivers.github.io/meetingsR/events.html,R;Community
+Website,NHS RAP Community of Practice,https://nhsdigital.github.io/rap-community-of-practice/,R
+Website,ONS Data Visualisation Manual,https://service-manual.ons.gov.uk/data-visualisation,Data Visualisation
+Website,PsyTeachR,https://psyteachr.github.io/,R
+Website,R for the Rest of Us,https://rfortherestofus.com/,R
+Website,Significance Magazine,https://significancemagazine.com/,Statistics
+Website,Tidymodels website,https://www.tidymodels.org/,Machine Learning;R
+Website,The Turing Way,https://www.turing.ac.uk/research/research-projects/turing-way,Data Science
+Website,Awesome Quarto,https://github.com/mcanouil/awesome-quarto,Quarto
+Website,Quarto,https://quarto.org/,Quarto
+Community,Data Science Learning Community,https://dslc.io/,Community;R;Python;Data Science
+Community,Data Visualization Society,https://www.datavisualizationsociety.org/,Community;Data Visualisation
+Community,NHS-R Community,https://nhsrcommunity.com/,Community;R
+Community,rainbowR,https://rainbowr.org/,Community;R
+Community,R-Ladies,https://rladies.org/,Community;R
+Community,R/Pharma,https://rinpharma.com/,Community;R
+Community,RoSE (Researchers of Statistics Education) Network,https://www.rose-network.org/,Community;Statistics
+Community,Rust Discord,https://discord.com/invite/rust,Community;Rust
+Community,Tableau Community,https://community.tableau.com/s/,Community;Data Visualisation
+Community,PyLadies,https://pyladies.com/,Community;Python
+Community,Women in Dataviz,https://womenindataviz.substack.com/about,Community;Data Visualisation
+Data,Awesome Public Datasets,https://github.com/awesomedata/awesome-public-datasets,Data
+Data,Data.gov (The Home of the U.S. Government's Open Data),https://data.gov/,Data
+Data,Data Is Plural,https://www.data-is-plural.com/,Data
+Data,Google Dataset Search,https://datasetsearch.research.google.com/,Data
+Data,Information is Beautiful,https://informationisbeautiful.net/data/,Data
+Data,NHS Digital,https://digital.nhs.uk/data-and-information/statistical-publications-open-data-and-data-products,Data
+Data,NHSRdatasets,https://github.com/nhs-r-community/NHSRdatasets,Data;R
+Data,Office for National Statistics,https://www.ons.gov.uk/,Data
+Data,Open Geography Portal,https://geoportal.statistics.gov.uk/,Data
+Data,Rdatasets,https://vincentarelbundock.github.io/Rdatasets/articles/data.html,Data;R
+Data,Teaching of Statistics in the Health Sciences,https://causeweb.org/tshs/,Data
+Data,tidyRainbow,https://github.com/r-lgbtq/tidyrainbow,Data
+Data,TidyTuesday,https://github.com/rfordatascience/tidytuesday,Data
+Data,UK Data Service,https://ukdataservice.ac.uk/,Data
+Challenge,30 Day Chart Challenge,https://github.com/30DayChartChallenge,Data Visualisation
+Challenge,30 Day Map Challenge,https://30daymapchallenge.com/,Data Visualisation
+Challenge,Makeover Monday,https://makeovermonday.co.uk/,Data Visualisation
+Challenge,Sports Viz Sunday,https://www.sportsvizsunday.com/,Data Visualisation
+Challenge,Storytelling with Data,https://community.storytellingwithdata.com/challenges,Data Visualisation
+Challenge,Viz for Social Good,https://www.vizforsocialgood.com/,Data Visualisation
+Challenge,Wonderful Wednesdays,https://www.psiweb.org/sigs-special-interest-groups/visualisation/welcome-to-wonderful-wednesdays,Data Visualisation
+Video,Statistics Globe,https://www.youtube.com/@StatisticsGlobe,R;Statistics
+Video,Albert Rapp,https://www.youtube.com/@rappa753,R
+Video,Julia Silge,https://www.youtube.com/c/JuliaSilge,R;Machine Learning
+Podcast,R for the Rest of Us Podcast,https://rfortherestofus.com/podcast,R
+Podcast,RWeekly Podcast,https://serve.podhome.fm/r-weekly-highlights,R

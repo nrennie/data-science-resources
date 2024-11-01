@@ -16,28 +16,30 @@ execute:
 # Read and format data
 resources <- readr::read_csv("resources.csv") |>
   dplyr::mutate(
-    Link = kableExtra::cell_spec(
-      stringr::str_remove_all(Link, "https://|/$"),
-      format = "html",
-      link = Link
-    )
+    LinkText = stringr::str_remove_all(Link, "https://|/$"),
+    Link = glue::glue("<a href='{Link}' target = '_blank'>{LinkText}</a>")
+  ) |>
+  dplyr::select(-LinkText) |> 
+  dplyr::mutate(
+    Category = stringr::str_replace(Category, ";", ", ")
   )
 
 # Function to make table
-resources_table <- function(Category, data = resources) {
+resources_table <- function(choose_type, data = resources) {
   output <- data |>
-    dplyr::filter(Type %in% Category) |>
+    dplyr::filter(Type %in% choose_type) |>
     dplyr::select(-Type) |>
     dplyr::arrange(Title) |>
-    knitr::kable("html", escape = FALSE, col.names = NULL) |>
-    kableExtra::column_spec(
-      column = 1,
-      width = "35%",
-      bold = TRUE, border_right = TRUE
-    ) |>
-    kableExtra::column_spec(
-      column = 2,
-      width = "65%"
+    reactable::reactable(
+      columns = list(
+        Link = reactable::colDef(
+          html = TRUE
+        )
+      ),
+      searchable = TRUE,
+      striped = TRUE,
+      pagination = FALSE,
+      height = 500
     )
   return(output)
 }
