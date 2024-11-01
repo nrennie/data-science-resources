@@ -24,6 +24,7 @@ Blog,Crystal Lewis,https://cghlewis.com/,Data Science;R
 Blog,Emily Riederer,https://www.emilyriederer.com/,Data Science
 Blog,Rebecca Barter,https://rebeccabarter.com/,Python;R;Data Science
 Blog,Stephen Turner,https://blog.stephenturner.us/,R;Python
+Blog,Rami Krispin,https://medium.com/@rami.krispin,Time Series;Forecasting;R;Python;Data Science
 Blog,Appsilon,https://www.appsilon.com/blog,R;Python;Data Science
 Blog,her data,https://www.herdata.net/mainblog,Data Science
 Blog,Jumping Rivers,https://www.jumpingrivers.com/blog/,R;Python;Data Science
@@ -32,6 +33,7 @@ Blog,rOpenSci,https://ropensci.org/blog/,R
 Blog,S-Cubed,https://scubed.rbind.io/,R
 Blog,ThinkR,https://rtask.thinkr.fr/blog/,R
 Blog,Tidyverse,https://www.tidyverse.org/blog/,R
+Blog,Open Forecasting,https://openforecast.org/,Forecasting;Time Series;R
 Newsletter,Counting Stuff,https://www.counting-stuff.com/,Data Science
 Newsletter,Data Elixir,https://dataelixir.com/,Data Science
 Newsletter,Data Science Weekly,https://datascienceweekly.substack.com/,Data Science
@@ -50,7 +52,8 @@ Book,Efficient R programming,https://csgillespie.github.io/efficientR/,R
 Book,Engineering Production-Grade Shiny Apps,https://engineering-shiny.org/,R;Shiny
 Book,The Epidemiologist R Handbook,https://epirhandbook.com/,R
 Book,Exploring Complex Survey Data Analysis Using R,https://tidy-survey-r.github.io/tidy-survey-book/,R
-Book,Forecasting: Principles and Practice,https://otexts.com/fpp3/,R;Forecasting
+Book,Forecasting: Principles and Practice,https://otexts.com/fpp3/,R;Forecasting;Time Series
+Book,Forecasting and Analytics with the Augmented Dynamic Adaptive Model (ADAM),https://openforecast.org/adam/,Forecasting;Time Series;R
 Book,Fundamentals of Data Visualization,https://clauswilke.com/dataviz/,Data Visualisation
 Book,ggiraph Book,https://www.ardata.fr/ggiraph-book/,Data Visualisation;R
 Book,ggplot2: Elegant Graphics for Data Analysis,https://ggplot2-book.org/,Data Visualisation;R
