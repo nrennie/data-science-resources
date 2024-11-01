@@ -31,6 +31,7 @@ Blog,rOpenSci,https://ropensci.org/blog/
 Blog,S-Cubed,https://scubed.rbind.io/
 Blog,ThinkR,https://rtask.thinkr.fr/blog/
 Blog,Tidyverse,https://www.tidyverse.org/blog/
+Newsletter,Counting Stuff,https://www.counting-stuff.com/
 Newsletter,Data Elixir,https://dataelixir.com/
 Newsletter,Data Science Weekly,https://datascienceweekly.substack.com/
 Newsletter,Rami Krispin,https://www.linkedin.com/newsletters/rami-s-data-newsletter-7230119265956216833/
@@ -44,12 +45,14 @@ Book,Big Book of R,https://www.bigbookofr.com/
 Book,Building reproducible analytical pipelines (RAP) with R,https://raps-with-r.dev/
 Book,Data Management in Large-Scale Education Research,https://datamgmtinedresearch.com/
 Book,Data Visualization with Plotnine,https://f0nzie.github.io/rmarkdown-python-plotnine/
+Book,Efficient Machine Learning with R,https://emlwr.org/
 Book,Efficient R programming,https://csgillespie.github.io/efficientR/
 Book,Engineering Production-Grade Shiny Apps,https://engineering-shiny.org/
 Book,The Epidemiologist R Handbook,https://epirhandbook.com/
 Book,Exploring Complex Survey Data Analysis Using R,https://tidy-survey-r.github.io/tidy-survey-book/
 Book,Forecasting: Principles and Practice,https://otexts.com/fpp3/
 Book,Fundamentals of Data Visualization,https://clauswilke.com/dataviz/
+Book,ggiraph Book,https://www.ardata.fr/ggiraph-book/
 Book,ggplot2: Elegant Graphics for Data Analysis,https://ggplot2-book.org/
 Book,Geocomputation with R,https://r.geocompx.org/
 Book,Happy Git with R,https://happygitwithr.com/
