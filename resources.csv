@@ -1,6 +1,6 @@
 Type,Title,Link,Category
 Blog,Yanina Bellini Saibene,https://yabellini.netlify.app/blog/,R;Community
-Blog,Jonathan Carroll,https://jcarroll.com.au/,R
+Blog,Jonathan Carroll,https://jcarroll.com.au/,R;Julia
 Blog,Meghan Harris,https://thetidytrekker.com/blog,R
 Blog,Luis D. Verde Arregoitia,https://luisdva.github.io/,R
 Blog,Jack Kennedy,https://jcken95.github.io/projects.html,R;Statistics;Programming
@@ -25,6 +25,12 @@ Blog,Emily Riederer,https://www.emilyriederer.com/,Data Science
 Blog,Rebecca Barter,https://rebeccabarter.com/,Python;R;Data Science
 Blog,Stephen Turner,https://blog.stephenturner.us/,R;Python
 Blog,Rami Krispin,https://medium.com/@rami.krispin,Time Series;Forecasting;R;Python;Data Science
+Blog,Andrew Gelman,https://statmodeling.stat.columbia.edu/,Statistics;Teaching
+Blog,Alberto Cairo,https://theartofinsight.substack.com/,Data Visualisation
+Blog,Frank Harrell,https://www.fharrell.com/#posts,Statistics
+Blog,Kieran Healy,https://kieranhealy.org/blog/,Data Visualisation;Statistics;R
+Blog,Dorothy Bishop,https://deevybee.blogspot.com/,Statistics
+Blog,Mine Dogucu,https://www.datapedagogy.com/,Teaching;Statistics;R
 Blog,Appsilon,https://www.appsilon.com/blog,R;Python;Data Science
 Blog,her data,https://www.herdata.net/mainblog,Data Science
 Blog,Jumping Rivers,https://www.jumpingrivers.com/blog/,R;Python;Data Science
@@ -33,7 +39,10 @@ Blog,rOpenSci,https://ropensci.org/blog/,R
 Blog,S-Cubed,https://scubed.rbind.io/,R
 Blog,ThinkR,https://rtask.thinkr.fr/blog/,R
 Blog,Tidyverse,https://www.tidyverse.org/blog/,R
+Blog,RoSE Network,https://www.rose-network.org/blog,Teaching;Statistics
 Blog,Open Forecasting,https://openforecast.org/,Forecasting;Time Series;R
+Blog,R Bloggers,https://www.r-bloggers.com/,R
+Blog,Julia Bloggers,https://www.juliabloggers.com/,Julia
 Newsletter,Counting Stuff,https://www.counting-stuff.com/,Data Science
 Newsletter,Data Elixir,https://dataelixir.com/,Data Science
 Newsletter,Data Science Weekly,https://datascienceweekly.substack.com/,Data Science
@@ -70,7 +79,7 @@ Book,R for the Rest of Us: A Statistics-Free Introduction,https://book.rforthere
 Book,R Graphics Cookbook,https://r-graphics.org/,R;Data Visualisation
 Book,R in Production,https://r-in-production.org/,R
 Book,R Packages,https://r-pkgs.org/,R
-Book,R Markdown: The Definitive Guide,https://bookdown.org/yihui/rmarkdown/,R
+Book,R Markdown: The Definitive Guide,https://bookdown.org/yihui/rmarkdown/,R;Quarto
 Book,The Rust Programming Language,https://doc.rust-lang.org/book/,Rust
 Book,Scaling Up With R and Arrow,https://arrowrbook.com/,R
 Book,Telling Stories with Data,https://tellingstorieswithdata.com/,Data Visualisation
