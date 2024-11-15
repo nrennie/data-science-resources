@@ -43,6 +43,7 @@ Blog,RoSE Network,https://www.rose-network.org/blog,Teaching;Statistics
 Blog,Open Forecasting,https://openforecast.org/,Forecasting;Time Series;R
 Blog,R Bloggers,https://www.r-bloggers.com/,R
 Blog,Julia Bloggers,https://www.juliabloggers.com/,Julia
+Blog,Mircea Zloteanu,https://mzloteanu.substack.com/,Statistics;R
 Newsletter,Counting Stuff,https://www.counting-stuff.com/,Data Science
 Newsletter,Data Elixir,https://dataelixir.com/,Data Science
 Newsletter,Data Science Weekly,https://datascienceweekly.substack.com/,Data Science
@@ -52,10 +53,14 @@ Newsletter,Visualizing Data,https://visualisingdata.ck.page/b9efcf751f,Data Visu
 Newsletter,RWeekly,https://rweekly.org/,R
 Book,Advanced R,https://adv-r.hadley.nz/,R
 Book,An Introduction to Statistical Learning,https://www.statlearning.com/,Statistics;Machine Learning;R;Python
+Book,Bayes Rules,https://www.bayesrulesbook.com/,Statistics
 Book,Big Book of R,https://www.bigbookofr.com/,R
 Book,Building reproducible analytical pipelines (RAP) with R,https://raps-with-r.dev/,R
 Book,Data Management in Large-Scale Education Research,https://datamgmtinedresearch.com/,Data Science
 Book,Data Visualization with Plotnine,https://f0nzie.github.io/rmarkdown-python-plotnine/,Data Visualisation;Python
+Book,Data Science in Education Using R,https://datascienceineducation.com/,Teaching;R;Data Science
+Book,Data Science at the Command Line,https://jeroenjanssens.com/dsatcl/,Data Science;Programming
+Book,Deep Learning and Scientific Computing with R torch,https://skeydan.github.io/Deep-Learning-and-Scientific-Computing-with-R-torch/,R;Machine Learning
 Book,Efficient Machine Learning with R,https://emlwr.org/,R;Machine Learning
 Book,Efficient R programming,https://csgillespie.github.io/efficientR/,R
 Book,Engineering Production-Grade Shiny Apps,https://engineering-shiny.org/,R;Shiny
@@ -66,8 +71,13 @@ Book,Forecasting and Analytics with the Augmented Dynamic Adaptive Model (ADAM),
 Book,Fundamentals of Data Visualization,https://clauswilke.com/dataviz/,Data Visualisation
 Book,ggiraph Book,https://www.ardata.fr/ggiraph-book/,Data Visualisation;R
 Book,ggplot2: Elegant Graphics for Data Analysis,https://ggplot2-book.org/,Data Visualisation;R
+Book,ggplot2 extended,https://ggplot2-extended-book.com/,R;Data Visualisation
 Book,Geocomputation with R,https://r.geocompx.org/,R
+Book,Geospatial Health Data: Modeling and Visualization with R-INLA and Shiny,https://www.paulamoraga.com/book-geospatial/,R;Statistics;Shiny
 Book,Happy Git with R,https://happygitwithr.com/,R;Git
+Book,HTTP testing in R,https://books.ropensci.org/http-testing/index.html,R;Programming
+Book,JavaScript for Data Science,https://third-bit.com/js4ds/,JavaScript;Data Science
+Book,JavaScript for R,https://book.javascript-for-r.com/,JavaScript;R
 Book,Mastering Shiny,https://mastering-shiny.org/,R;Shiny
 Book,Python for Data Analysis,https://wesmckinney.com/book/,Python
 Book,Python for Data Science,https://aeturrell.github.io/python4DS/welcome.html,Python
@@ -82,7 +92,10 @@ Book,R Packages,https://r-pkgs.org/,R
 Book,R Markdown: The Definitive Guide,https://bookdown.org/yihui/rmarkdown/,R;Quarto
 Book,The Rust Programming Language,https://doc.rust-lang.org/book/,Rust
 Book,Scaling Up With R and Arrow,https://arrowrbook.com/,R
+Book,Supervised Machine Learning for Text Analysis in R,https://smltar.com/,Machine Learning;R
+Book,Spatial Statistics for Data Science: Theory and Practice with R,https://www.paulamoraga.com/book-spatial/index.html,Statistics;R
 Book,Telling Stories with Data,https://tellingstorieswithdata.com/,Data Visualisation
+Book,Text Mining with R,https://www.tidytextmining.com/,Machine Learning;R
 Book,Think Bayes,https://allendowney.github.io/ThinkBayes2/index.html,Statistics
 Book,Tidy Modelling with R,https://www.tmwr.org/,Machine Learning;R
 Book,What They Forgot to Teach You About R,https://rstats.wtf/,R
@@ -112,6 +125,7 @@ Community,PyLadies,https://pyladies.com/,Community;Python
 Community,Women in Dataviz,https://womenindataviz.substack.com/about,Community;Data Visualisation
 Data,Awesome Public Datasets,https://github.com/awesomedata/awesome-public-datasets,Data
 Data,Data.gov (The Home of the U.S. Government's Open Data),https://data.gov/,Data
+Data,European Data,https://data.europa.eu/en,Data
 Data,Data Is Plural,https://www.data-is-plural.com/,Data
 Data,Google Dataset Search,https://datasetsearch.research.google.com/,Data
 Data,Information is Beautiful,https://informationisbeautiful.net/data/,Data
