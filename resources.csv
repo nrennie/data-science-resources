@@ -113,7 +113,8 @@ Website,Tidymodels website,https://www.tidymodels.org/,Machine Learning;R
 Website,The Turing Way,https://www.turing.ac.uk/research/research-projects/turing-way,Data Science
 Website,Awesome Quarto,https://github.com/mcanouil/awesome-quarto,Quarto
 Website,Quarto,https://quarto.org/,Quarto
-Website,Using D3 with Svelte,https://datavisualizationwithsvelte.com/,Data Visualisation;JavaScript
+Website,Using D3 with Svelte,https://datavisualizationwithsvelte.com/,Data Visualisation;JavaScript;Svelte
+Website,Welcome to Svelte,https://svelte.dev/tutorial/svelte/welcome-to-svelte,Svelte
 Community,Data Science Learning Community,https://dslc.io/,Community;R;Python;Data Science
 Community,Data Visualization Society,https://www.datavisualizationsociety.org/,Community;Data Visualisation
 Community,NHS-R Community,https://nhsrcommunity.com/,Community;R
