@@ -57,6 +57,7 @@ Book,An Introduction to Statistical Learning,https://www.statlearning.com/,Stati
 Book,Bayes Rules,https://www.bayesrulesbook.com/,Statistics
 Book,Big Book of R,https://www.bigbookofr.com/,R
 Book,Building reproducible analytical pipelines (RAP) with R,https://raps-with-r.dev/,R
+Book,D3 in Depth,https://www.d3indepth.com/,D3;Data Visualisation
 Book,Data Management in Large-Scale Education Research,https://datamgmtinedresearch.com/,Data Science
 Book,Data Visualization with Plotnine,https://f0nzie.github.io/rmarkdown-python-plotnine/,Data Visualisation;Python
 Book,Data Science in Education Using R,https://datascienceineducation.com/,Teaching;R;Data Science
@@ -113,7 +114,7 @@ Website,Tidymodels website,https://www.tidymodels.org/,Machine Learning;R
 Website,The Turing Way,https://www.turing.ac.uk/research/research-projects/turing-way,Data Science
 Website,Awesome Quarto,https://github.com/mcanouil/awesome-quarto,Quarto
 Website,Quarto,https://quarto.org/,Quarto
-Website,Using D3 with Svelte,https://datavisualizationwithsvelte.com/,Data Visualisation;JavaScript;Svelte
+Website,Using D3 with Svelte,https://datavisualizationwithsvelte.com/,D3;Data Visualisation;JavaScript;Svelte
 Website,Welcome to Svelte,https://svelte.dev/tutorial/svelte/welcome-to-svelte,Svelte
 Website,A ggplot2 Grammar Guide,https://evamaerey.github.io/ggplot2_grammar_guide/about,R
 Community,Data Science Learning Community,https://dslc.io/,Community;R;Python;Data Science
@@ -152,6 +153,7 @@ Challenge,Viz for Social Good,https://www.vizforsocialgood.com/,Data Visualisati
 Challenge,Wonderful Wednesdays,https://www.psiweb.org/sigs-special-interest-groups/visualisation/welcome-to-wonderful-wednesdays,Data Visualisation
 Video,Statistics Globe,https://www.youtube.com/@StatisticsGlobe,R;Statistics
 Video,Albert Rapp,https://www.youtube.com/@rappa753,R
+Video,Svelte + D3 Training (Matthias Stahl),https://www.youtube.com/playlist?list=PLNvnDrMLMSipfbxSp1Z4v9Ydu2ud5i9V8,D3;Svelte;JavaScript
 Video,Julia Silge,https://www.youtube.com/c/JuliaSilge,R;Machine Learning
 Podcast,R for the Rest of Us Podcast,https://rfortherestofus.com/podcast,R
 Podcast,RWeekly Podcast,https://serve.podhome.fm/r-weekly-highlights,R
