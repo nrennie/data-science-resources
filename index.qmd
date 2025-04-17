@@ -1,6 +1,6 @@
 ---
 title: "Data Science Resources"
-subtitle: "A curated collection of useful, freely-available data science resources."
+subtitle: "A curated collection of useful, freely-available data science and visualisation resources."
 author: "Nicola Rennie"
 format:
   html:
