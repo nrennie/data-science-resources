@@ -76,11 +76,13 @@ Book,ggplot2: Elegant Graphics for Data Analysis,https://ggplot2-book.org/,Data 
 Book,ggplot2 extended,https://ggplot2-extended-book.com/,R;Data Visualisation
 Book,Geocomputation with R,https://r.geocompx.org/,R
 Book,Geospatial Health Data: Modeling and Visualization with R-INLA and Shiny,https://www.paulamoraga.com/book-geospatial/,R;Statistics;Shiny
+Book,Git in Practice,https://github.com/MikeMcQuaid/GitInPractice,Git
 Book,Happy Git with R,https://happygitwithr.com/,R;Git
 Book,HTTP testing in R,https://books.ropensci.org/http-testing/index.html,R;Programming
 Book,JavaScript for Data Science,https://third-bit.com/js4ds/,JavaScript;Data Science
 Book,JavaScript for R,https://book.javascript-for-r.com/,JavaScript;R
 Book,Mastering Shiny,https://mastering-shiny.org/,R;Shiny
+Book,Pro Git,https://git-scm.com/book/en/v2,Git
 Book,Python for Data Analysis,https://wesmckinney.com/book/,Python
 Book,Python for Data Science,https://aeturrell.github.io/python4DS/welcome.html,Python
 Book,Python Polars: The Definitive Guide,https://polarsguide.com/,Python
@@ -117,6 +119,7 @@ Website,Quarto,https://quarto.org/,Quarto
 Website,Using D3 with Svelte,https://datavisualizationwithsvelte.com/,D3;Data Visualisation;JavaScript;Svelte
 Website,Welcome to Svelte,https://svelte.dev/tutorial/svelte/welcome-to-svelte,Svelte
 Website,A ggplot2 Grammar Guide,https://evamaerey.github.io/ggplot2_grammar_guide/about,R
+Website,Oh My Git!,https://ohmygit.org/,Git
 Community,Data Science Learning Community,https://dslc.io/,Community;R;Python;Data Science
 Community,Data Visualization Society,https://www.datavisualizationsociety.org/,Community;Data Visualisation
 Community,NHS-R Community,https://nhsrcommunity.com/,Community;R
