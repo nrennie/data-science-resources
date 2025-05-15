@@ -60,6 +60,7 @@ Book,Building reproducible analytical pipelines (RAP) with R,https://raps-with-r
 Book,D3 in Depth,https://www.d3indepth.com/,D3;Data Visualisation
 Book,Data Management in Large-Scale Education Research,https://datamgmtinedresearch.com/,Data Science
 Book,Data Visualization with Plotnine,https://f0nzie.github.io/rmarkdown-python-plotnine/,Data Visualisation;Python
+Book,Data Visualization: A Practical Introduction,https://socviz.co/,Data Visualisation
 Book,Data Science in Education Using R,https://datascienceineducation.com/,Teaching;R;Data Science
 Book,Data Science at the Command Line,https://jeroenjanssens.com/dsatcl/,Data Science;Programming
 Book,Deep Learning and Scientific Computing with R torch,https://skeydan.github.io/Deep-Learning-and-Scientific-Computing-with-R-torch/,R;Machine Learning
@@ -102,6 +103,7 @@ Book,Telling Stories with Data,https://tellingstorieswithdata.com/,Data Visualis
 Book,Text Mining with R,https://www.tidytextmining.com/,Machine Learning;R
 Book,Think Bayes,https://allendowney.github.io/ThinkBayes2/index.html,Statistics
 Book,Tidy Modelling with R,https://www.tmwr.org/,Machine Learning;R
+Book,Visualization for Social Data Science,https://vis4sds.github.io/vis4sds/,Data Visualisation;R
 Book,What They Forgot to Teach You About R,https://rstats.wtf/,R
 Website,Best Practices for Data Visualisation,https://rss.org.uk/datavisguide/,Data Visualisation
 Website,Diffify,https://diffify.com/,R;Python
@@ -115,6 +117,7 @@ Website,Significance Magazine,https://significancemagazine.com/,Statistics
 Website,Tidymodels website,https://www.tidymodels.org/,Machine Learning;R
 Website,The Turing Way,https://www.turing.ac.uk/research/research-projects/turing-way,Data Science
 Website,Awesome Quarto,https://github.com/mcanouil/awesome-quarto,Quarto
+Website,A list of R conferences and meetings,https://jumpingrivers.github.io/meetingsR/events.html,Community;R
 Website,Quarto,https://quarto.org/,Quarto
 Website,Using D3 with Svelte,https://datavisualizationwithsvelte.com/,D3;Data Visualisation;JavaScript;Svelte
 Website,Welcome to Svelte,https://svelte.dev/tutorial/svelte/welcome-to-svelte,Svelte
@@ -127,6 +130,8 @@ Community,NHS-R Community,https://nhsrcommunity.com/,Community;R
 Community,rainbowR,https://rainbowr.org/,Community;R
 Community,R-Ladies,https://rladies.org/,Community;R
 Community,R/Pharma,https://rinpharma.com/,Community;R
+Community,rOpenSci,https://ropensci.org/community/,Community;R
+Community,pyOpenSci,https://www.pyopensci.org/our-community/index.html,Community;Python
 Community,RoSE (Researchers of Statistics Education) Network,https://www.rose-network.org/,Community;Statistics
 Community,Rust Discord,https://discord.com/invite/rust,Community;Rust
 Community,Tableau Community,https://community.tableau.com/s/,Community;Data Visualisation
@@ -161,3 +166,4 @@ Video,Svelte + D3 Training (Matthias Stahl),https://www.youtube.com/playlist?lis
 Video,Julia Silge,https://www.youtube.com/c/JuliaSilge,R;Machine Learning
 Podcast,R for the Rest of Us Podcast,https://rfortherestofus.com/podcast,R
 Podcast,RWeekly Podcast,https://serve.podhome.fm/r-weekly-highlights,R
+Podcast,Data Science Hangout,https://posit.co/data-science-hangout/,Community;R;Python
