@@ -45,6 +45,7 @@ Blog,Open Forecasting,https://openforecast.org/,Forecasting;Time Series;R
 Blog,R Bloggers,https://www.r-bloggers.com/,R
 Blog,Julia Bloggers,https://www.juliabloggers.com/,Julia
 Blog,Mircea Zloteanu,https://mzloteanu.substack.com/,Statistics;R
+Blog,VizDex,https://vizdexproject.com/,Data Visualisation
 Newsletter,Counting Stuff,https://www.counting-stuff.com/,Data Science
 Newsletter,Data Elixir,https://dataelixir.com/,Data Science
 Newsletter,Data Science Weekly,https://datascienceweekly.substack.com/,Data Science
@@ -147,6 +148,7 @@ Data,Information is Beautiful,https://informationisbeautiful.net/data/,Data
 Data,NHS Digital,https://digital.nhs.uk/data-and-information/statistical-publications-open-data-and-data-products,Data
 Data,NHSRdatasets,https://github.com/nhs-r-community/NHSRdatasets,Data;R
 Data,Office for National Statistics,https://www.ons.gov.uk/,Data
+Data,Office for National Statistics API,https://developer.ons.gov.uk/,Data;API
 Data,Open Geography Portal,https://geoportal.statistics.gov.uk/,Data
 Data,Rdatasets,https://vincentarelbundock.github.io/Rdatasets/articles/data.html,Data;R
 Data,Teaching of Statistics in the Health Sciences,https://causeweb.org/tshs/,Data
