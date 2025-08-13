@@ -1,13 +1,15 @@
 ---
 title: "Data Science Resources"
-subtitle: "A curated collection of useful, freely-available data science resources."
-author: "Nicola Rennie"
+subtitle: "A collection of useful, freely-available data science resources and links, curated by [Nicola Rennie](https://nrennie.rbind.io/)."
 format:
   html:
     toc: true
     page-layout: full
-    theme: pulse
+    theme: custom.scss
     image: preview.png
+    include-after-body: 
+      text: |
+        <footer class="footer">© Nicola Rennie. 2025. All rights reserved.</footer>
 execute: 
   eval: true
   echo: false
@@ -30,7 +32,7 @@ select {
 }
 ```
 
-
+Want to add a resource? File an issue or edit the `resources.csv` file on [GitHub](https://github.com/nrennie/data-science-resources) and submit a PR.
 
 ```{r}
 #| message: false
@@ -71,10 +73,14 @@ resources |>
     columns = list(
       Type = reactable::colDef(
         name = "Type",
-        filterInput = filter_fct
+        filterInput = filter_fct,
+        maxWidth = 180
       ),
       Link = reactable::colDef(
         html = TRUE
+      ),
+      Category = reactable::colDef(
+        maxWidth = 180
       )
     ),
     searchable = TRUE,
@@ -83,10 +89,21 @@ resources |>
     elementId = "resources-tbl",
     filterable = TRUE,
     sortable = TRUE,
-    showSortable = TRUE
+    showSortable = TRUE,
+    theme = reactable::reactableTheme(
+      backgroundColor = "#F0F5F5",
+      rowStyle = list(
+        backgroundColor = "#F0F5F5",
+        color = "black"
+      ),
+      rowStripedStyle = list(
+        backgroundColor = "#FFFFFF"
+      )
+    )
   )
 ```
 
 <br>
 
-Want to add a resource? File an issue or edit the `resources.csv` file on [GitHub](https://github.com/nrennie/data-science-resources) and submit a PR.
+Links to external websites are provided for convenience and informational purposes only. We do not endorse, guarantee, or take responsibility for the accuracy, reliability, or content of any linked site.
+

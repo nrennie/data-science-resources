@@ -1,0 +1,202 @@
+/*-- scss:defaults --*/
+$siteBgColorCustom: #F0F5F5;
+$sidebarBgColorCustom: #f7f7f4;
+$textColorCustom: #2F4F4F;
+$sidebarTextColorCustom: #2F4F4F;
+$headlineColorCustom: #508080;
+$headingColorCustom: #508080;
+$bodyLinkColorCustom: #508080;
+$navLinkColorCustom: #508080;
+$sidebarLinkColorCustom: #508080;
+$footerTextColorCustom: #508080;
+$buttonTextColorCustom: #f7f7f4;
+$buttonHoverTextColorCustom: #f7f7f4;
+$buttonBgColorCustom: #f7f7f4;
+$buttonHoverBgColorCustom: #508080;
+$borderColorCustom: #508080;
+
+$body-bg: #F0F5F5;
+$navbar-bg: #F0F5F5;
+$body-color: #2F4F4F;
+$link-color: #508080;
+$code-block-bg: #FFFFFF;
+$code-color: #E30B5C;
+$contrast-color: #E30B5C;
+
+@import url('https://fonts.googleapis.com/css2?family=Commissioner&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz@9..144&display=swap');
+
+$mainfont: 'Commissioner', Arial, sans-serif !default;
+$body-font-family: 'Commissioner', Arial, sans-serif !default;
+$font-family-sans-serif: 'Commissioner', Arial, sans-serif !default;
+$heading-font: 'Fraunces', Times New Roman, serif  !default;
+
+
+/*-- scss:rules --*/
+
+.tag {
+  background-color: $body-bg;
+  color: $body-color;
+  border-color: $link-color;
+  padding: 3px 6px;
+  font-size: x-small;
+  text-align: center;
+  border-style: solid;
+  border-width: 1px !important;
+  border-radius: 10px !important;
+}
+
+.footer {
+  text-align: center;
+  position: relative;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: 100%;
+  padding-bottom: 5px;
+  color: $body-color;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: $heading-font
+}
+
+.center {
+  text-align: center;
+}
+
+.smaller {
+  font-size: small;
+}
+
+.csl-entry, .quarto-appendix-bibtex {
+  background-color: $code-block-bg !important;
+}
+
+.thumbnail-image {
+  border-color: $link-color !important;
+  border-width: 3px !important;
+  border-style: solid;
+  margin-top: -10px !important;
+  padding-top: 0em !important;
+}
+
+img {
+  vertical-align: top !important;
+}
+
+.quarto-grid-item img {
+  height: 100% !important;
+  aspect-ratio: 1 / 1 !important;
+}
+
+.quarto-title-block {
+  padding-bottom: 20px !important;
+}
+
+.icon-link {
+    background-color: $code-block-bg;
+    color: $link-color;
+    padding: 5px 5px 5px 5px;
+    margin: 0px 0px 0px 0px;
+    border-radius: 5px;
+    border-style: solid;
+    border-width: 2px !important;
+    border-color: $link-color !important;
+    text-transform: uppercase;
+    text-decoration: none;
+    text-align: center;
+    min-width: 125px;
+}
+
+.icon-link:hover {
+    color: $contrast-color;
+    border-color: $contrast-color;
+}
+
+.icon {
+    color: $link-color;
+    padding: 5px 5px 5px 5px;
+    margin: 0px 0px 0px 0px;
+    text-transform: uppercase;
+    text-decoration: none;
+    text-align: center;
+    font-size: x-large;
+}
+
+.icon:hover {
+    color: $contrast-color;
+}
+
+.page-link.active, .active>.page-link {
+  background-color: $contrast-color;
+  border-color: $contrast-color;
+}
+
+.metadata-value {
+  padding-bottom: 5px;
+  padding-top: 5px;
+}
+
+figcaption {
+  text-align: center;
+}
+
+div.quarto-post {
+  border-bottom: none !important;
+}
+
+div#hero-heading {
+  text-align: left !important;
+}
+
+.about-link {
+  border: none !important;
+}
+
+.utterances-frame {
+  position: relative !important;
+  margin-bottom: 100px !important;
+}
+
+@media (max-width: 767.98px) {
+  .reverse-on-mobile > .g-col-12:nth-child(2) {
+    order: -1;
+  }
+}
+
+div.cc-nb-title-container {
+  display: none !important;
+}
+
+.cc-nb-okagree, .cc-nb-reject, .cc-nb-changep {
+  background-color: $code-block-bg !important;
+  color: $link-color !important;
+  padding: 5px 5px 5px 5px;
+  margin: 0px 0px 0px 0px;
+  border-radius: 5px !important;
+  border-style: solid !important;
+  border-width: 2px !important;
+  border-color: $link-color !important;
+  min-width: 100px !important;
+}
+
+.cc-nb-okagree:hover, .cc-nb-reject:hover, .cc-nb-changep:hover {
+    color: $contrast-color!important;
+}
+
+.quarto-title-meta-heading {
+  display: none !important;
+}
+.quarto-title-meta-contents {
+  padding-top: 20px !important;
+}
+
+pre.sourceCode code {
+  max-height: 800px;
+}
+
+.termsfeed-com---palette-light.termsfeed-com---nb {
+  background-color: rgba(47, 79, 79, 0.3) !important;
+  color: $body-color !important;
+}
