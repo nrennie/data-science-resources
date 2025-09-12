@@ -97,6 +97,8 @@ Book,R in Production,https://r-in-production.org/,R
 Book,R Packages,https://r-pkgs.org/,R
 Book,R Markdown: The Definitive Guide,https://bookdown.org/yihui/rmarkdown/,R;Quarto
 Book,The Rust Programming Language,https://doc.rust-lang.org/book/,Rust
+Book,The Rust Programming Language,https://doc.rust-lang.org/book/,Rust
+Book,The Art of Data Visualization with ggplot2,https://nrennie.rbind.io/art-of-viz/,R;Data Visualisation
 Book,Scaling Up With R and Arrow,https://arrowrbook.com/,R
 Book,Statistical Inference via Data Science: A ModernDive into R and the Tidyverse (2e),https://moderndive.com/v2/index.html,R;Statistics
 Book,Supervised Machine Learning for Text Analysis in R,https://smltar.com/,Machine Learning;R
