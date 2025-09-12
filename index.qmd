@@ -13,6 +13,7 @@ format:
 execute: 
   eval: true
   echo: false
+engine: knitr
 ---
 
 ```{css, echo = FALSE}
@@ -32,7 +33,7 @@ select {
 }
 ```
 
-Want to add a resource? File an issue or edit the `resources.csv` file on [GitHub](https://github.com/nrennie/data-science-resources) and submit a PR.
+This resource list was last updated on `r format(Sys.time(), '%b %d, %Y')`. Want to add a resource? File an issue or edit the `resources.csv` file on [GitHub](https://github.com/nrennie/data-science-resources) and submit a PR.
 
 ```{r}
 #| message: false
