@@ -1,0 +1,1 @@
+Sitemap: https://nrennie.rbind.io/data-science-resources/sitemap.xml

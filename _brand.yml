@@ -1,0 +1,21 @@
+color:
+  palette:
+    platinum: "#F2F4F8"
+    white: "#FFFFFF"
+    ink_black: "#151C28"
+    black: "#07090D"
+    royal_plum: "#7F055F"
+    shocking_pink: "#F514B9"
+    saffron: "#E4BB25"
+    stormy_teal: "#197176"
+    turquoise_surf: "#31AFD4"
+    deep_purple: "#4B0743"
+
+typography:
+  fonts:
+    - family: Nunito
+      source: google
+    - family: Oswald
+      source: google
+  base: Nunito
+  headings: Oswald

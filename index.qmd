@@ -1,37 +1,7 @@
 ---
 title: "Data Science Resources"
 subtitle: "A collection of useful, freely-available data science resources and links, curated by [Nicola Rennie](https://nrennie.rbind.io/)."
-format:
-  html:
-    toc: true
-    page-layout: full
-    theme: custom.scss
-    image: preview.png
-    include-after-body: 
-      text: |
-        <footer class="footer">© Nicola Rennie. 2025. All rights reserved.</footer>
-execute: 
-  eval: true
-  echo: false
-engine: knitr
 ---
-
-```{css, echo = FALSE}
-select {
-  background-color: #fff;
-  border: 1px solid rgba(0,0,0,.1);
-  border-radius: 3px;
-  color: inherit;
-  font-family: inherit;
-  font-size: inherit;
-  font-weight: 400;
-  margin: 0;
-  outline-style: solid;
-  outline-width: 0;
-  padding: 5px 7px;
-  width: 100%;
-}
-```
 
 This resource list was last updated on `r format(Sys.time(), '%b %d, %Y')`. Want to add a resource? File an issue or edit the `resources.csv` file on [GitHub](https://github.com/nrennie/data-science-resources) and submit a PR.
 
@@ -90,17 +60,7 @@ resources |>
     elementId = "resources-tbl",
     filterable = TRUE,
     sortable = TRUE,
-    showSortable = TRUE,
-    theme = reactable::reactableTheme(
-      backgroundColor = "#F0F5F5",
-      rowStyle = list(
-        backgroundColor = "#F0F5F5",
-        color = "black"
-      ),
-      rowStripedStyle = list(
-        backgroundColor = "#FFFFFF"
-      )
-    )
+    showSortable = TRUE
   )
 ```
 

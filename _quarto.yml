@@ -1,0 +1,31 @@
+project:
+  type: website
+
+website:
+  title: "Data Science Resources"
+  site-url: "https://nrennie.rbind.io/data-science-resources"
+  image: "assets/img/featured.png"
+  favicon: "assets/img/favicon.ico"
+  twitter-card: true
+  open-graph: true
+  page-footer:
+    border: true
+    center:
+      - text: "© Nicola Rennie. 2026.<br>"
+
+format:
+  html:
+    theme:
+      light: [flatly,assets/css/custom.scss]
+      dark: [darkly,assets/css/custom-dark.scss]
+    respect-user-color-scheme: true
+    toc: true
+    toc-location: left
+    page-layout: full
+    code-overflow: wrap
+
+execute:
+  echo: false
+  eval: true
+  warning: false
+  message: false
