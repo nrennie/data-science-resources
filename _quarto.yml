@@ -1,6 +1,6 @@
 project:
   type: website
-  output: docs
+  output-dir: docs
 
 website:
   title: "Data Science Resources"

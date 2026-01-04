@@ -6,3 +6,4 @@
 *_files/
 /.quarto/
 **/*.quarto_ipynb
+docs/
