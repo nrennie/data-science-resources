@@ -151,6 +151,7 @@ Data,Data Is Plural,https://www.data-is-plural.com/,Data
 Data,Google Dataset Search,https://datasetsearch.research.google.com/,Data
 Data,Information is Beautiful,https://informationisbeautiful.net/data/,Data
 Data,NHS Digital,https://digital.nhs.uk/data-and-information/statistical-publications-open-data-and-data-products,Data
+Data,unicefData,https://github.com/unicef-drp/unicefData,Data;R;Python
 Data,NHSRdatasets,https://github.com/nhs-r-community/NHSRdatasets,Data;R
 Data,Office for National Statistics,https://www.ons.gov.uk/,Data
 Data,Office for National Statistics API,https://developer.ons.gov.uk/,Data;API
