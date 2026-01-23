@@ -14,7 +14,7 @@ resources <- readr::read_csv("resources.csv") |>
   ) |>
   dplyr::select(-LinkText) |>
   dplyr::mutate(
-    Category = stringr::str_replace_all(Category, ";", ", ")
+    Notes = stringr::str_replace_all(Notes, ";", "; ")
   )
 ```
 
@@ -45,13 +45,13 @@ resources |>
       Type = reactable::colDef(
         name = "Type",
         filterInput = filter_fct,
-        maxWidth = 180
+        maxWidth = 150
       ),
       Link = reactable::colDef(
         html = TRUE
       ),
-      Category = reactable::colDef(
-        maxWidth = 180
+      Notes = reactable::colDef(
+        maxWidth = 400
       )
     ),
     searchable = TRUE,

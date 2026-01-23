@@ -1,4 +1,4 @@
-Type,Title,Link,Category
+Type,Title,Link,Notes
 Blog,Yanina Bellini Saibene,https://yabellini.netlify.app/blog/,R;Community
 Blog,Jonathan Carroll,https://jcarroll.com.au/,R;Julia
 Blog,Meghan Harris,https://thetidytrekker.com/blog,R
@@ -10,7 +10,7 @@ Blog,Dan Oehm,https://gradientdescending.com/,R
 Blog,Josiah Parry,https://josiahparry.com/posts/,R;Rust
 Blog,Shannon Pileggi,https://www.pipinghotdata.com/blog,R
 Blog,Albert Rapp,https://albert-rapp.de/,R
-Blog,Nicola Rennie,https://nrennie.rbind.io/,R;Data Science
+Blog,Nicola Rennie,https://nrennie.rbind.io/,"Blog about data science, visualisation, and R."
 Blog,Bruno Rodrigues,https://www.brodrigues.co/blog/,R
 Blog,Maëlle Salmon,https://masalmon.eu/,R
 Blog,Steven Paul Sanderson II,https://www.spsanderson.com/steveondata/,R
@@ -30,14 +30,14 @@ Blog,Alberto Cairo,https://theartofinsight.substack.com/,Data Visualisation
 Blog,Frank Harrell,https://www.fharrell.com/#posts,Statistics
 Blog,Kieran Healy,https://kieranhealy.org/blog/,Data Visualisation;Statistics;R
 Blog,Dorothy Bishop,https://deevybee.blogspot.com/,Statistics
-Blog,Mine Dogucu,https://www.datapedagogy.com/,Teaching;Statistics;R
+Blog,Mine Dogucu,https://www.datapedagogy.com/,"Blog about teaching, statistics, and R."
 Blog,Emil Hvitfeldt,https://emilhvitfeldt.com/blog,R;Quarto
 Blog,Appsilon,https://www.appsilon.com/blog,R;Python;Data Science
 Blog,her data,https://www.herdata.net/mainblog,Data Science
 Blog,Jumping Rivers,https://www.jumpingrivers.com/blog/,R;Python;Data Science
 Blog,Posit,https://posit.co/blog/,R;Python;Data Science
 Blog,rOpenSci,https://ropensci.org/blog/,R
-Blog,S-Cubed,https://scubed.rbind.io/,R
+Blog,S-Cubed,https://scubed.rbind.io/,"Blog by Sophie Lee about statistics, education, and R tips."
 Blog,ThinkR,https://rtask.thinkr.fr/blog/,R
 Blog,Tidyverse,https://www.tidyverse.org/blog/,R
 Blog,RoSE Network,https://www.rose-network.org/blog,Teaching;Statistics
@@ -45,18 +45,18 @@ Blog,Open Forecasting,https://openforecast.org/,Forecasting;Time Series;R
 Blog,R Bloggers,https://www.r-bloggers.com/,R
 Blog,Julia Bloggers,https://www.juliabloggers.com/,Julia
 Blog,Mircea Zloteanu,https://mzloteanu.substack.com/,Statistics;R
-Blog,VizDex,https://vizdexproject.com/,Data Visualisation
-Newsletter,Counting Stuff,https://www.counting-stuff.com/,Data Science
-Newsletter,Data Elixir,https://dataelixir.com/,Data Science
+Blog,VizDex,https://vizdexproject.com/,A library of personal and independent blogs and newsletters dedicated to data visualization.
+Newsletter,Counting Stuff,https://www.counting-stuff.com/,Weekly newsletter about data science.
+Newsletter,Data Elixir,https://dataelixir.com/,"Weekly newsletter covering machine learning, data visualization, analytics, and strategy."
 Newsletter,Data Science Weekly,https://datascienceweekly.substack.com/,Data Science
 Newsletter,Rami Krispin,https://www.linkedin.com/newsletters/rami-s-data-newsletter-7230119265956216833/,Data Science;R;Python
 Newsletter,Royal Statistical Society's Data Science and AI Section,https://rssdsaisection.substack.com/,Statistics;Data Science
-Newsletter,Visualizing Data,https://visualisingdata.ck.page/b9efcf751f,Data Visualisation
-Newsletter,RWeekly,https://rweekly.org/,R
+Newsletter,Visualizing Data,https://visualisingdata.ck.page/b9efcf751f,Monthly data visualisation newsletter from Andy Kirk.
+Newsletter,RWeekly,https://rweekly.org/,Weekly newsletter with great things from the R community.
 Book,Advanced R,https://adv-r.hadley.nz/,R
 Book,An Introduction to Statistical Learning,https://www.statlearning.com/,Statistics;Machine Learning;R;Python
-Book,Bayes Rules,https://www.bayesrulesbook.com/,Statistics
-Book,Big Book of R,https://www.bigbookofr.com/,R
+Book,Bayes Rules,https://www.bayesrulesbook.com/,An Introduction to Applied Bayesian Modeling
+Book,Big Book of R,https://www.bigbookofr.com/,"Collection of over 400 free, open-sourced books related to R."
 Book,Building reproducible analytical pipelines (RAP) with R,https://raps-with-r.dev/,R
 Book,D3 in Depth,https://www.d3indepth.com/,D3;Data Visualisation
 Book,Data Management in Large-Scale Education Research,https://datamgmtinedresearch.com/,Data Science
@@ -66,7 +66,7 @@ Book,Data Science in Education Using R,https://datascienceineducation.com/,Teach
 Book,Data Science at the Command Line,https://jeroenjanssens.com/dsatcl/,Data Science;Programming
 Book,Deep Learning and Scientific Computing with R torch,https://skeydan.github.io/Deep-Learning-and-Scientific-Computing-with-R-torch/,R;Machine Learning
 Book,Efficient Machine Learning with R,https://emlwr.org/,R;Machine Learning
-Book,Efficient R programming,https://csgillespie.github.io/efficientR/,R
+Book,Efficient R Programming,https://csgillespie.github.io/efficientR/,R
 Book,Engineering Production-Grade Shiny Apps,https://engineering-shiny.org/,R;Shiny
 Book,The Epidemiologist R Handbook,https://epirhandbook.com/,R
 Book,Exploring Complex Survey Data Analysis Using R,https://tidy-survey-r.github.io/tidy-survey-book/,R
@@ -98,7 +98,6 @@ Book,R in Production,https://r-in-production.org/,R
 Book,R Packages,https://r-pkgs.org/,R
 Book,R Markdown: The Definitive Guide,https://bookdown.org/yihui/rmarkdown/,R;Quarto
 Book,The Rust Programming Language,https://doc.rust-lang.org/book/,Rust
-Book,The Rust Programming Language,https://doc.rust-lang.org/book/,Rust
 Book,The Art of Data Visualization with ggplot2,https://nrennie.rbind.io/art-of-viz/,R;Data Visualisation
 Book,Scaling Up With R and Arrow,https://arrowrbook.com/,R
 Book,Statistical Inference via Data Science: A ModernDive into R and the Tidyverse (2e),https://moderndive.com/v2/index.html,R;Statistics
@@ -106,35 +105,35 @@ Book,Supervised Machine Learning for Text Analysis in R,https://smltar.com/,Mach
 Book,Spatial Statistics for Data Science: Theory and Practice with R,https://www.paulamoraga.com/book-spatial/index.html,Statistics;R
 Book,Telling Stories with Data,https://tellingstorieswithdata.com/,Data Visualisation
 Book,Text Mining with R,https://www.tidytextmining.com/,Machine Learning;R
-Book,Think Bayes,https://allendowney.github.io/ThinkBayes2/index.html,Statistics
+Book,Think Bayes,https://allendowney.github.io/ThinkBayes2/index.html,An introduction to Bayesian statistics using computational methods.
 Book,Tidy Modelling with R,https://www.tmwr.org/,Machine Learning;R
 Book,Visualization for Social Data Science,https://vis4sds.github.io/vis4sds/,Data Visualisation;R
 Book,What They Forgot to Teach You About R,https://rstats.wtf/,R
-Website,Best Practices for Data Visualisation,https://rss.org.uk/datavisguide/,Data Visualisation
-Website,Diffify,https://diffify.com/,R;Python
-Website,HDR Global,https://globalhealthdatascience.tghn.org/hub-resources/spotlight-r/,R
-Website,List of R events,https://jumpingrivers.github.io/meetingsR/events.html,R;Community
-Website,NHS RAP Community of Practice,https://nhsdigital.github.io/rap-community-of-practice/,R
-Website,ONS Data Visualisation Manual,https://service-manual.ons.gov.uk/data-visualisation,Data Visualisation
-Website,PsyTeachR,https://psyteachr.github.io/,R
+Website,Best Practices for Data Visualisation,https://rss.org.uk/datavisguide/,Royal Statistical Society data visualisation style guide and best practices.
+Website,Diffify,https://diffify.com/,Compare versions of R and Python packages.
+Website,HDR Global,https://globalhealthdatascience.tghn.org/hub-resources/spotlight-r/,"Resources, tips, and ideas to learn R for health data science."
+Website,List of R events,https://jumpingrivers.github.io/meetingsR/events.html,List of R events and community meetups.
+Website,NHS RAP Community of Practice,https://nhsdigital.github.io/rap-community-of-practice/,Reproducible Analytical Pipelines (RAP)
+Website,ONS Data Visualisation Manual,https://service-manual.ons.gov.uk/data-visualisation,Office for National Statistics data visualisation style guide and best practices.
+Website,PsyTeachR,https://psyteachr.github.io/,R; Teaching materials
 Website,R for the Rest of Us,https://rfortherestofus.com/,R
-Website,Significance Magazine,https://significancemagazine.com/,Statistics
+Website,Significance Magazine,https://significancemagazine.com/,"Bimonthly magazine for anyone interested in statistics and the analysis and interpretation of data, published by the Royal Statistical Society."
 Website,Tidymodels website,https://www.tidymodels.org/,Machine Learning;R
 Website,The Turing Way,https://www.turing.ac.uk/research/research-projects/turing-way,Data Science
-Website,Awesome Quarto,https://github.com/mcanouil/awesome-quarto,Quarto
+Website,Awesome Quarto,https://github.com/mcanouil/awesome-quarto,"A curated list of Quarto talks, tools, examples, and articles."
 Website,A list of R conferences and meetings,https://jumpingrivers.github.io/meetingsR/events.html,Community;R
-Website,Quarto,https://quarto.org/,Quarto
+Website,Quarto,https://quarto.org/,An open-source scientific and technical publishing system.
 Website,Using D3 with Svelte,https://datavisualizationwithsvelte.com/,D3;Data Visualisation;JavaScript;Svelte
 Website,Welcome to Svelte,https://svelte.dev/tutorial/svelte/welcome-to-svelte,Svelte
 Website,A ggplot2 Grammar Guide,https://evamaerey.github.io/ggplot2_grammar_guide/about,R
-Website,Oh My Git!,https://ohmygit.org/,Git
+Website,Oh My Git!,https://ohmygit.org/,An open source game about learning Git
 Website,SveltePlot,https://svelteplot.dev/,Svelte
 Community,Data Science Learning Community,https://dslc.io/,Community;R;Python;Data Science
 Community,Data Visualization Society,https://www.datavisualizationsociety.org/,Community;Data Visualisation
 Community,NHS-R Community,https://nhsrcommunity.com/,Community;R
-Community,rainbowR,https://rainbowr.org/,Community;R
-Community,R-Ladies,https://rladies.org/,Community;R
-Community,R/Pharma,https://rinpharma.com/,Community;R
+Community,rainbowR,https://rainbowr.org/,"A community to connect, support and promote LGBTQ+ people in the R community and to spread awareness of LGBTQ+ issues through data-driven activism."
+Community,R-Ladies+,https://rladies.org/,A worldwide organization whose mission is to promote gender diversity in the R community.
+Community,R/Pharma,https://rinpharma.com/,"A scientifically and industry oriented, collegial online community focused on the use of R in the development of pharmaceuticals."
 Community,rOpenSci,https://ropensci.org/community/,Community;R
 Community,pyOpenSci,https://www.pyopensci.org/our-community/index.html,Community;Python
 Community,PyData,https://www.meetup.com/pro/pydata/,Community;Python
@@ -143,28 +142,28 @@ Community,Rust Discord,https://discord.com/invite/rust,Community;Rust
 Community,Tableau Community,https://community.tableau.com/s/,Community;Data Visualisation
 Community,PyLadies,https://pyladies.com/,Community;Python
 Community,Women in Dataviz,https://womenindataviz.substack.com/about,Community;Data Visualisation
-Data,Awesome Public Datasets,https://github.com/awesomedata/awesome-public-datasets,Data
-Data,Data.gov (The Home of the U.S. Government's Open Data),https://data.gov/,Data
-Data,Data Commons,https://datacommons.org/,Data
-Data,European Data,https://data.europa.eu/en,Data
-Data,Data Is Plural,https://www.data-is-plural.com/,Data
-Data,Google Dataset Search,https://datasetsearch.research.google.com/,Data
-Data,Information is Beautiful,https://informationisbeautiful.net/data/,Data
-Data,NHS Digital,https://digital.nhs.uk/data-and-information/statistical-publications-open-data-and-data-products,Data
-Data,unicefData,https://github.com/unicef-drp/unicefData,Data;R;Python
-Data,NHSRdatasets,https://github.com/nhs-r-community/NHSRdatasets,Data;R
-Data,Office for National Statistics,https://www.ons.gov.uk/,Data
-Data,Office for National Statistics API,https://developer.ons.gov.uk/,Data;API
-Data,Open Geography Portal,https://geoportal.statistics.gov.uk/,Data
-Data,Rdatasets,https://vincentarelbundock.github.io/Rdatasets/articles/data.html,Data;R
-Data,Teaching of Statistics in the Health Sciences,https://causeweb.org/tshs/,Data
-Data,tidyRainbow,https://github.com/r-lgbtq/tidyrainbow,Data
-Data,TidyTuesday,https://github.com/rfordatascience/tidytuesday,Data
-Data,UK Data Service,https://ukdataservice.ac.uk/,Data
-Data,Dryad,https://datadryad.org/stash,Data
-Challenge,30 Day Chart Challenge,https://github.com/30DayChartChallenge,Data Visualisation
-Challenge,30 Day Map Challenge,https://30daymapchallenge.com/,Data Visualisation
-Challenge,Makeover Monday,https://makeovermonday.co.uk/,Data Visualisation
+Data,Awesome Public Datasets,https://github.com/awesomedata/awesome-public-datasets,A topic-centric list of HQ open datasets.
+Data,Data.gov,https://data.gov/,U.S. Government's Open Data
+Data,Data Commons,https://datacommons.org/,Offers data exploration tools and cloud-based APIs to access and integrate cleaned datasets.
+Data,European Data,https://data.europa.eu/en,The official portal for European data.
+Data,Data Is Plural,https://www.data-is-plural.com/,A newsletter of useful/curious datasets.
+Data,Google Dataset Search,https://datasetsearch.research.google.com/,Dataset search.
+Data,Information is Beautiful,https://informationisbeautiful.net/data/,Spreadsheet of all the best data from Information is Beautiful.
+Data,NHS Digital,https://digital.nhs.uk/data-and-information/statistical-publications-open-data-and-data-products,"Statistical publications, open data and data products from the NHS."
+Data,unicefData,https://github.com/unicef-drp/unicefData,"Access Unicef data through R, Python, or Stata."
+Data,NHSRdatasets,https://github.com/nhs-r-community/NHSRdatasets,NHS and healthcare related datasets for training and learning R.
+Data,Office for National Statistics,https://www.ons.gov.uk/,Official statistics related to the United Kingdom.
+Data,Office for National Statistics API,https://developer.ons.gov.uk/,API for official statistics related to the United Kingdom.
+Data,Open Geography Portal,https://geoportal.statistics.gov.uk/,"Geographic data for the United Kingdom, including shapefiles and geojson downloads."
+Data,Rdatasets,https://vincentarelbundock.github.io/Rdatasets/articles/data.html,Datasets that are available through R packages.
+Data,Teaching of Statistics in the Health Sciences,https://causeweb.org/tshs/,Datasets that are useful for teaching statistics in health disciplines.
+Data,tidyRainbow,https://github.com/r-lgbtq/tidyrainbow,Datasets about LGBTQ+ topics.
+Data,TidyTuesday,https://github.com/rfordatascience/tidytuesday,"Curated list of real world datasets available as CSV files, and via R, Python, and Julia."
+Data,UK Data Service,https://ukdataservice.ac.uk/,"Collection of economic, population, and social research data."
+Data,Dryad,https://datadryad.org/stash,Open data publishing platform.
+Challenge,30 Day Chart Challenge,https://github.com/30DayChartChallenge,Visualisation challenge taking place every April.
+Challenge,30 Day Map Challenge,https://30daymapchallenge.com/,Mapping challenge taking place every November.
+Challenge,Makeover Monday,https://makeovermonday.co.uk/,Weekly data visualisation makeover challenge.
 Challenge,Sports Viz Sunday,https://www.sportsvizsunday.com/,Data Visualisation
 Challenge,Storytelling with Data,https://community.storytellingwithdata.com/challenges,Data Visualisation
 Challenge,Viz for Social Good,https://www.vizforsocialgood.com/,Data Visualisation
@@ -173,6 +172,6 @@ Video,Statistics Globe,https://www.youtube.com/@StatisticsGlobe,R;Statistics
 Video,Albert Rapp,https://www.youtube.com/@rappa753,R
 Video,Svelte + D3 Training (Matthias Stahl),https://www.youtube.com/playlist?list=PLNvnDrMLMSipfbxSp1Z4v9Ydu2ud5i9V8,D3;Svelte;JavaScript
 Video,Julia Silge,https://www.youtube.com/c/JuliaSilge,R;Machine Learning
-Podcast,R for the Rest of Us Podcast,https://rfortherestofus.com/podcast,R
-Podcast,RWeekly Podcast,https://serve.podhome.fm/r-weekly-highlights,R
-Podcast,Data Science Hangout,https://posit.co/data-science-hangout/,Community;R;Python
+Podcast,R for the Rest of Us Podcast,https://rfortherestofus.com/podcast,Podcast talking with people about how they use R in creative ways.
+Podcast,RWeekly Podcast,https://serve.podhome.fm/r-weekly-highlights,Weekly podcast discussing the contents of Rweekly.
+Podcast,Data Science Hangout,https://posit.co/data-science-hangout/,Weekly data science community meeting.
